@@ -1,0 +1,2082 @@
+{
+  "meta": {
+    "fps": "FPS_5994",
+    "lang": "ar",
+    "originalLanguage": "en",
+    "type": "DUB_SCRIPT",
+    "style": "standard_2017_latin",
+    "movieId": 80141336,
+    "proxyId": "-1:0",
+    "packageId": 2248120,
+    "timeFormat": "FRAMES",
+    "requestReference": "dubtext:dubtext_script_authoring:2cf5a2bb-7c10-4d29-901a-2881f10ab6b5",
+    "audioUrl": "",
+    "sourceTextAmpReference": "f6c458d0-e7d4-11ee-8138-12646799ab9f.1.0",
+    "title": "Meridian",
+    "runtime": 0,
+    "version": "V2.0",
+    "proxyType": "FINAL_CUT",
+    "published": "Friday 19 April 2024 16:27:20.893+0000",
+    "originalVideoFps": "FPS_5994",
+    "linkParentRequestReference": [
+      "dubtext:dubtext_request:8ca26ca3-6556-4cb5-9f68-7ba6b35fb4d7",
+      "dubtext:dubtext_request:72c56383-3d7c-49ec-98ac-b294b39536ef",
+      "dubtext:dubtext_request:b175e797-7a8c-4180-8a59-f42b30024e7b"
+    ]
+  },
+  "events": {
+    "039e31bd-15fa-4f41-8ef1-ad3754a7afee": {
+      "start": 11593,
+      "end": 11625,
+      "txt": "[صوت]",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "[REACTION]",
+      "pivotStyles": []
+    },
+    "0a60d849-3d06-4067-b9d5-efd09b4cabf7": {
+      "start": 12919,
+      "end": 12931,
+      "txt": "[صوت]",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "[REACTION]",
+      "pivotStyles": []
+    },
+    "0b26ecf9-1318-4bf7-a0af-bbb3769ee412": {
+      "start": 6677,
+      "end": 7122,
+      "txt": "تحرّيت ووجدته بأعلى مراتب الكشّافة.\n، لا أعرف، ماذا أصدّق الان. \nلا أريد تصديقه. ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.Context"
+        ],
+        "text": "Eagle Scout: Eagle Scout is the highest rank attainable in the Scouts BSA program by the Boy Scouts of America. With this he is implying he is probably a reputable/good person."
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "I had him checked out too. Guy's a goddamn Eagle Scout. So now, now I don't know what to believe. I know I don't want to believe him.",
+      "pivotStyles": []
+    },
+    "0e03b28d-c3f7-465d-a766-5ddf62b86bc1": {
+      "start": 6182,
+      "end": 6264,
+      "txt": "و لم لم تقل من البداية ؟",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Well, why didn't you say that in the first place?",
+      "pivotStyles": []
+    },
+    "1548c6d9-64f1-4dc6-8914-5467e91aa16f": {
+      "start": 939,
+      "end": 1052,
+      "txt": ".",
+      "characterId": "00000000-0000-0000-0000-000000000000",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.PrinciplePhotography"
+        ],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "EARL CARROLL THEATRE",
+      "pivotStyles": []
+    },
+    "20b6ed71-2392-465d-bc06-65dafb4c656b": {
+      "start": 33631,
+      "end": 33689,
+      "txt": "يا إلهي.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Oh my God.",
+      "pivotStyles": []
+    },
+    "25dfcc14-3364-4d1f-b917-96b26b0911f3": {
+      "start": 12624,
+      "end": 12868,
+      "txt": "ليس هذه المرّة. \nهناك شاهداً يوم  اختفاء الرجل الأخير. \n",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Nah, not this time. Somebody was out there the day the last guy disappeared.",
+      "pivotStyles": []
+    },
+    "29a5f0f8-5ebb-4c39-abeb-9b4254f96b7f": {
+      "start": 3329,
+      "end": 3374,
+      "txt": "أيه صلات ؟ ",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Any connection? ",
+      "pivotStyles": []
+    },
+    "2a71e6c5-3bd7-4f1b-a513-2db5ae48241b": {
+      "start": 2305,
+      "end": 2325,
+      "txt": "أجل.",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Yeah.",
+      "pivotStyles": []
+    },
+    "2b1cc03d-c5fc-47af-9352-0348bd2c7758": {
+      "start": 10795,
+      "end": 11473,
+      "txt": "رآها، كانت جميلة. لكن كأنها من زمن أو مكان آخر. \nولاحظ أن الطقس كان يزداد سوءًا. \nفقرر المغادرة بسرعة.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.Context"
+        ],
+        "text": "Hightail it: leave quickly."
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "He sees her, she's beautiful. But like she's from some other time, some other place. He looks back at the weather, because it's getting worse and worse, and decides to hightail it out of there.",
+      "pivotStyles": []
+    },
+    "2ed0ad3e-6e01-42b0-af63-d9990a8e9821": {
+      "start": 9986,
+      "end": 10681,
+      "txt": "ونظر للصخرة ، اختفى الرجل. \nلكن وجد امرأة. بفستان أبيض. وصف بشرتها ، كالمرمر . وقال إنها كانت تحدّق به. ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF_ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "When he looks back at the rock, the guy's gone. But there's a woman there. She's in a white dress. Alabaster skin, his words, and he says she's staring right up at him.",
+      "pivotStyles": []
+    },
+    "31bc9fd2-5295-499d-b260-8bf3d278f1dd": {
+      "start": 1406,
+      "end": 1781,
+      "txt": ".",
+      "characterId": "00000000-0000-0000-0000-000000000000",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.MainTitle"
+        ],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Meridian",
+      "pivotStyles": []
+    },
+    "362bcb8e-9a02-4401-a0c4-7769ab6b1454": {
+      "start": 12419,
+      "end": 12563,
+      "txt": "تقول أنهم .. أختفوا ؟ ",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "So these guys just disappear?",
+      "pivotStyles": []
+    },
+    "38886bb9-50c5-479f-9c97-d98742100121": {
+      "start": 32980,
+      "end": 33022,
+      "txt": "\"جايك\".",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Jake.",
+      "pivotStyles": []
+    },
+    "3ebf1bbd-12c4-4e73-8479-33b7566f4ed6": {
+      "start": 1858,
+      "end": 2127,
+      "txt": "أجل , بإمتداد ذلك الطريق ، على شاطيء \"الماتادور\" ، أتعرفه ؟ ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": " Yeah, on that stretch of road right above El Matador. You know it?",
+      "pivotStyles": []
+    },
+    "3f670198-cefc-4f3d-8642-7974e105231d": {
+      "start": 6022,
+      "end": 6060,
+      "txt": "شاهداً؟",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "A witness?",
+      "pivotStyles": []
+    },
+    "3fee7765-3156-4cc7-ae3e-b5f6faad2c54": {
+      "start": 31750,
+      "end": 31826,
+      "txt": "الشرطة لا تتحركوا  .  ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.Context"
+        ],
+        "text": "LAPD: Los Angeles Police Department"
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "LAPD, put your hands in the air!",
+      "pivotStyles": []
+    },
+    "404e0172-8208-4f5c-bf65-c64d25e3cbbb": {
+      "start": 19161,
+      "end": 19240,
+      "txt": "فقط. سيارته . ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "No. Just his car.",
+      "pivotStyles": []
+    },
+    "4326a403-9b8a-4017-b306-227757d0f431": {
+      "start": 5174,
+      "end": 5211,
+      "txt": "انتحار؟",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Suicide?",
+      "pivotStyles": []
+    },
+    "44c7bbbf-3d4e-4133-8562-fcb72d051e75": {
+      "start": 7237,
+      "end": 8162,
+      "txt": "أخذ كلبه في جولة على المنحدرات فوق \"الماتادور\". ونظر  إلى الصخرة الضخمة المنفصلة عن اليابسة حيث يلتقي المحيط بالشاطئ. \nقال إنها ، كمخلوق ، بحري أسطوري أتعرفها؟",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF_ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "He said he was out there walking his dog along the bluffs above El Matador, right? And he looks down at the beach at that huge rock, you know, the one that's separated from the mainland, right where the ocean meets the shore. His words, looks like a, like a \"mythic sea creature.\" You know that one?",
+      "pivotStyles": []
+    },
+    "4a74f69d-38cd-44de-ab09-14e59257b7f5": {
+      "start": 1614,
+      "end": 1768,
+      "txt": "تقول أنهم .. أختفوا ؟ ",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "So these guys just... disappear?",
+      "pivotStyles": []
+    },
+    "4a8a7172-1c67-4c5f-9aa8-28f949fd4968": {
+      "start": 5528,
+      "end": 5700,
+      "txt": "أولًا  لا توجد جثث، وأيضًا...",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Well, for one thing, there's no bodies and...",
+      "pivotStyles": []
+    },
+    "4c0c7597-98f2-4cf5-9d45-9a31863eb117": {
+      "start": 5784,
+      "end": 5966,
+      "txt": "هناك شاهداً يوم ، اختفاء الرجل الأخير. ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Somebody was out there the day the last guy disappeared.",
+      "pivotStyles": []
+    },
+    "544534b1-42e5-4617-abf6-176024efae01": {
+      "start": 5255,
+      "end": 5327,
+      "txt": "كما حدث من قبل",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "It's been known to happen out there.",
+      "pivotStyles": []
+    },
+    "5692fd57-0257-4aea-a050-7a4a2a028f24": {
+      "start": 13066,
+      "end": 13796,
+      "txt": "أخذ كلبه في جولة على المنحدرات فوق \"الماتادور\". \n  رأى رجلًا ،  فوق تلك الصخرة. كان يبحث بأنحاء الصخرة ،  عن شيء أو شخص ما. \n",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "He said that he was up there walking his dog along those bluffs above El Matador. And there's a guy who's on top of that rock. And he's just like looking all over the rock as if he's looking for someone or something.",
+      "pivotStyles": []
+    },
+    "5bff15a7-e1de-4e25-90ed-d9864dc5d016": {
+      "start": 2434,
+      "end": 2678,
+      "txt": "\"ميكي كوهين\" إعتاد الذهاب إلى هناك ، لكي يودع شركائه",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.ForeignDialog"
+        ],
+        "text": "bon voyage - French way to say goodbye "
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Well, Mickey Cohen used to take his associates out there. Bid them a bon voyage. ",
+      "pivotStyles": [
+        {
+          "to": 80,
+          "from": 69,
+          "type": "italic"
+        }
+      ]
+    },
+    "5f24849e-e92e-4c9f-af59-aac423fc1760": {
+      "start": 20311,
+      "end": 20383,
+      "txt": " تسمعني أيها النقيب؟",
+      "characterId": "93fbd60e-8d5d-44e4-a2f6-3aba98c2902a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Are you still there, Captain?",
+      "pivotStyles": []
+    },
+    "6b60a09d-3bef-4b20-be17-5539bb38c325": {
+      "start": 7115,
+      "end": 7235,
+      "txt": "صوت",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "727bc126-8525-47c1-b342-0ec5475db6be": {
+      "start": 2185,
+      "end": 2227,
+      "txt": "عند الصخرة  ؟",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "With the big rock?",
+      "pivotStyles": []
+    },
+    "76e633ab-e1e9-4d0a-8092-c465d43e4eda": {
+      "start": 11910,
+      "end": 11958,
+      "txt": "والآن...",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": " So now...",
+      "pivotStyles": []
+    },
+    "7ddd5ad4-852d-4b83-9232-b34fc38c203c": {
+      "start": 4834,
+      "end": 5157,
+      "txt": "اسمع أنا أعرف ما حدث. \nذهبوا للصخرة، وبدؤوا رحلتهم بالسباحة إلى \"الصين\". ",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Yeah, look, I know what happened, alright. They go out to the rock. They take that long, cold, slow swim to China.",
+      "pivotStyles": []
+    },
+    "7fb12623-7c45-46d8-8067-51ba15038e44": {
+      "start": 6108,
+      "end": 6176,
+      "txt": "أجل شاهداً.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Yeah, a witness.",
+      "pivotStyles": []
+    },
+    "80a55598-fc2c-4d86-8f30-2f3eeeadd8da": {
+      "start": 12943,
+      "end": 13013,
+      "txt": "ًأجل  شاهدا.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Yeah, a witness.",
+      "pivotStyles": []
+    },
+    "834b7b0f-1d64-41f1-825a-2cbb93bb4c54": {
+      "start": 4275,
+      "end": 4501,
+      "txt": "[صوت] \nأذن أظن عليك عدم الذهاب إلى هناك ",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF_ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Oh. Well, in that case, maybe you don't want to go out there boss.",
+      "pivotStyles": []
+    },
+    "860cbea6-b2df-4402-848d-6ddb9c57b15e": {
+      "start": 12024,
+      "end": 12209,
+      "txt": "أريدك، أن تذهب وتجد تلك المرأة. ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Now, I need you to go up there and find that woman.",
+      "pivotStyles": []
+    },
+    "887e521e-51c6-4458-905d-39e9e583b18e": {
+      "start": 105,
+      "end": 310,
+      "txt": "\"(لوس أنجلوس) 1947.\"",
+      "characterId": "00000000-0000-0000-0000-000000000000",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.GraphicsInserts"
+        ],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "fn",
+      "rgn": "top",
+      "pivotText": "Los Angeles 1947",
+      "pivotStyles": []
+    },
+    "88e80216-d625-40df-b873-356fcb08fbab": {
+      "start": 5367,
+      "end": 5446,
+      "txt": " ليس هذه المرة. (صوت) ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Nah, not this time. ",
+      "pivotStyles": []
+    },
+    "8fa49596-b51f-4967-852e-8ea8e41de917": {
+      "start": 8487,
+      "end": 9140,
+      "txt": "وبدأ يتساءل  \"كيف صعَد هناك؟ لا بد أنه متسلّق جبال.\" \nالأهم أنه قال إن الرجل كان غريباً. \nكان يبحث بأنحاء الصخرة  عن شيء أو شخص ما. ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "And he's thinking to himself, \"How the hell do you get up there? You got to be a goddamn mountain climber.\" But more importantly, he says the guy's acting really funny. He's looking all over that rock, like he's looking for something or someone.",
+      "pivotStyles": []
+    },
+    "948a03d7-eeef-4a44-be16-1f37e93a6f63": {
+      "start": 20622,
+      "end": 20701,
+      "txt": "يا نقيب أجب رجاءً. ",
+      "characterId": "93fbd60e-8d5d-44e4-a2f6-3aba98c2902a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Captain, please come in!",
+      "pivotStyles": []
+    },
+    "953e2e70-db60-44ee-b0f7-b892b0155a43": {
+      "start": 19840,
+      "end": 19888,
+      "txt": "إبقي معي .",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": " Hang on a minute.",
+      "pivotStyles": []
+    },
+    "983fad40-c361-473d-8d6a-65575b2f6f9a": {
+      "start": 31954,
+      "end": 32032,
+      "txt": "ارفعوا أيديكم الآن. ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Put your hands up now.",
+      "pivotStyles": []
+    },
+    "9918014b-b15e-48b8-85a4-d7e31d19146a": {
+      "start": 9212,
+      "end": 9926,
+      "txt": "وبتلك اللحظة، قال حلّ الظلام بشدة،  بسرعة وتحول الجو متفجراً  رعد وبرق، طقس لم يرَ مثله قطّ ولم يعلم من أين أتى. ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "At that very moment, he says it got really, really dark really fast and bombs start going off in the air. Thunder and lightning, weather like he'd never seen before, coming from he didn't know where.",
+      "pivotStyles": []
+    },
+    "9d13f35b-6634-4f44-9a29-5893f72366b3": {
+      "start": 11658,
+      "end": 11799,
+      "txt": "هذا كل شيء. هذه روايته. ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": " And that was it. That was his story, right?",
+      "pivotStyles": []
+    },
+    "9d154871-5369-4965-9015-e913bfcbbe49": {
+      "start": 786,
+      "end": 937,
+      "txt": ".",
+      "characterId": "00000000-0000-0000-0000-000000000000",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.PrinciplePhotography"
+        ],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "HOLLYWOOD HOTEL",
+      "pivotStyles": []
+    },
+    "a25ea56f-20aa-4bc8-bee1-6a8f68ae63a0": {
+      "start": 12878,
+      "end": 12912,
+      "txt": "شاهداً؟",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "A witness?",
+      "pivotStyles": []
+    },
+    "a68d66cc-0a2c-406b-9181-7ef95586192c": {
+      "start": 20107,
+      "end": 20225,
+      "txt": "نقيب \"فوستر\"، أجب من فضلك. ",
+      "characterId": "93fbd60e-8d5d-44e4-a2f6-3aba98c2902a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Captain Foster, come in please.",
+      "pivotStyles": []
+    },
+    "a6a95b2f-ed1f-4a8c-bf9e-f39269c058d0": {
+      "start": 5491,
+      "end": 5518,
+      "txt": "ماذا تقصد ؟",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "What do you mean?",
+      "pivotStyles": []
+    },
+    "a8c08113-090f-4add-a8e0-1dcf8068c737": {
+      "start": 8161,
+      "end": 8181,
+      "txt": "أجل.",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Yeah.",
+      "pivotStyles": []
+    },
+    "a993d17b-bd12-4530-b59b-716651a29989": {
+      "start": 32412,
+      "end": 32638,
+      "txt": "[صوت]",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "[REACTION]",
+      "pivotStyles": []
+    },
+    "a9ea1cbc-72d9-4ccd-9c70-5588b9961095": {
+      "start": 13965,
+      "end": 15547,
+      "txt": "قال حلّ الظلام فجأة  وبسرعة   . رعد وبرق والطقس كان يزداد سوءًا.\nونظر للصخرة ، اختفى الرجل . \nلكن وجد امرأة. بفستان أبيض بشرتها  كالمرمر . وقد قال ، إنها كانت تحدّق به. \nلا أعرف ماذا أصدّق . \nانا لا أريد تصديقه. ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Then, it gets dark all of a sudden. Really fast. Like thunder and lightning from everywhere, all this weather. When he looks back at the rock... the guys gone, but there's a woman there in a long white dress with Alabaster skin. And she staring right up at him, not moving. I don't know what to believe. I know I sure don't want to believe him.",
+      "pivotStyles": []
+    },
+    "ad8481d9-622d-4e08-9ec9-a5a925b25614": {
+      "start": 3415,
+      "end": 4063,
+      "txt": "(صوت) . \nوفقا للتحريات. (صوت) \nلا، سجلات إجرامية أو صلة بأي منظمات إجرامية. اعتقل أحدهم للقيادة ثملا منذ فترة .  ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF_ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Mm-mm. I mean, I checked them all out. There's no criminal records. No association with any criminal organizations. One of the guys was arrested for drunk driving a long time ago.",
+      "pivotStyles": []
+    },
+    "b2d6c6f3-f3d1-40f9-a87c-614548130996": {
+      "start": 6081,
+      "end": 6096,
+      "txt": "[صوت]",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "[REACTION]",
+      "pivotStyles": []
+    },
+    "b624e2c7-42f9-4ff3-9412-eb1348c5e81a": {
+      "start": 7181,
+      "end": 7222,
+      "txt": "ماذا قال؟",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "What did he say?",
+      "pivotStyles": []
+    },
+    "c1eaf7af-322e-48a0-8613-ac5301feb9d9": {
+      "start": 2717,
+      "end": 3250,
+      "txt": "ليس المافيا ؟ ، الأمر مختلف . أحدهم معلم في مدرسة . و الثاني مسؤل مبيعات . و الأخير كان متقاعدا",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.Context"
+        ],
+        "text": "Mob hits: people killed by the mob/mafia."
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON_OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Mob hits? Nah, not this time. One of these guys was a schoolteacher. Next guy, he sold insurance. Last guy, he was retired.",
+      "pivotStyles": []
+    },
+    "ca77fdad-3c46-4013-b700-57a2965b294f": {
+      "start": 6549,
+      "end": 6599,
+      "txt": "تصدّقه الآن؟",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "And now you believe him?",
+      "pivotStyles": []
+    },
+    "ca9602c3-c255-46c9-b177-afeda9410951": {
+      "start": 4171,
+      "end": 4251,
+      "txt": "كانوا جميعا مطلقين. ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": " They were all divorced. ",
+      "pivotStyles": []
+    },
+    "d5ed8427-2985-43db-8774-a40f22b64367": {
+      "start": 20488,
+      "end": 20541,
+      "txt": "نقيب \"فوستر\"؟",
+      "characterId": "93fbd60e-8d5d-44e4-a2f6-3aba98c2902a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Captain Foster?",
+      "pivotStyles": []
+    },
+    "dba711b4-4e1c-49e2-8c3a-ebab70e1fecb": {
+      "start": 6306,
+      "end": 6478,
+      "txt": "ظننته مجنونًا بسبب، ما قاله...",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.Context"
+        ],
+        "text": "Nuts: crazy."
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Because I thought the guy was nuts. What he said...",
+      "pivotStyles": []
+    },
+    "def71a09-4896-411a-9130-c5effbead965": {
+      "start": 2258,
+      "end": 2289,
+      "txt": "بالضبط",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "That's right.",
+      "pivotStyles": []
+    },
+    "dfede135-d444-4285-a897-d9cfa5fb5489": {
+      "start": 19318,
+      "end": 19474,
+      "txt": "سألقي نظرة  قبل أن ترسلوا أحدًا  لذا...",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Listen, I'm going to take a look around before you send anybody out here. So--",
+      "pivotStyles": []
+    },
+    "ecba6e8a-43f1-4bbc-9193-635001aadebd": {
+      "start": 18690,
+      "end": 19072,
+      "txt": "الطوارئ، أنا النقيب \"فوستر\". \nانا في \"الماتادور\" ولا أثر/   للمحقق \"سوليفان\". ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Yeah, dispatch, this is Captain Foster. I'm out here at the El Matador location. There's no sign of Detective Sullivan.",
+      "pivotStyles": []
+    },
+    "f0341d79-fcdd-44f4-9a57-e7c87d9d6a3f": {
+      "start": 8214,
+      "end": 8445,
+      "txt": "أياً كان  رأى رجلًا هناك،  فوق تلك الصخرة. ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF_ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Anyway, he looks down there and there's a guy who's on top of that rock.",
+      "pivotStyles": []
+    },
+    "fed7a211-202f-4f1a-90bc-91dd747dfcb9": {
+      "start": 4597,
+      "end": 4807,
+      "txt": "هل تمزح ؟ \nفي هذه الحالة لا تذهب أنت إلى هناك .",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "What are you, a comedian? If that's the case, you sure don't want to go out there.",
+      "pivotStyles": []
+    }
+  },
+  "characters": {
+    "93fbd60e-8d5d-44e4-a2f6-3aba98c2902a": {
+      "name": "IDENTIFIED FEMALE DISPATCH",
+      "color": {
+        "surface": "#E49DD8",
+        "ink": "#000000"
+      },
+      "gender": "",
+      "voice": "en-US-Wavenet-B",
+      "talent": "",
+      "language": "",
+      "image": "",
+      "notes": "",
+      "engine": "google",
+      "voiceName": "default"
+    },
+    "9c514b7f-56ec-4a88-9a21-471104b8ad63": {
+      "name": "DETECTIVE SULLIVAN",
+      "color": {
+        "surface": "#E49DD8",
+        "ink": "#000000"
+      },
+      "gender": "",
+      "voice": "en-US-Wavenet-B",
+      "talent": "",
+      "language": "",
+      "image": "",
+      "notes": "",
+      "engine": "google",
+      "voiceName": "default"
+    },
+    "bcc41bd8-dc8c-4d99-a09c-4612981edd3e": {
+      "name": "CAPTAIN FOSTER",
+      "color": {
+        "surface": "#5ECEB7",
+        "ink": "#000000"
+      },
+      "gender": "",
+      "voice": "en-US-Wavenet-B",
+      "talent": "",
+      "language": "",
+      "image": "",
+      "notes": "",
+      "engine": "google",
+      "voiceName": "default"
+    }
+  },
+  "deletedEvents": {},
+  "referenceScript": {
+    "events": {},
+    "characters": {}
+  },
+  "lipDetection": {
+    "events": {}
+  },
+  "notes": {},
+  "issues": {
+    "global": [],
+    "events": {
+      "0e03b28d-c3f7-465d-a766-5ddf62b86bc1": {
+        "description": "",
+        "reasons": []
+      },
+      "25dfcc14-3364-4d1f-b917-96b26b0911f3": {
+        "description": "",
+        "reasons": []
+      },
+      "29a5f0f8-5ebb-4c39-abeb-9b4254f96b7f": {
+        "description": "",
+        "reasons": []
+      },
+      "2b1cc03d-c5fc-47af-9352-0348bd2c7758": {
+        "description": "",
+        "reasons": []
+      },
+      "2ed0ad3e-6e01-42b0-af63-d9990a8e9821": {
+        "description": "",
+        "reasons": []
+      },
+      "362bcb8e-9a02-4401-a0c4-7769ab6b1454": {
+        "description": "",
+        "reasons": []
+      },
+      "3ebf1bbd-12c4-4e73-8479-33b7566f4ed6": {
+        "description": "",
+        "reasons": []
+      },
+      "3f670198-cefc-4f3d-8642-7974e105231d": {
+        "description": "",
+        "reasons": []
+      },
+      "3fee7765-3156-4cc7-ae3e-b5f6faad2c54": {
+        "description": "",
+        "reasons": []
+      },
+      "404e0172-8208-4f5c-bf65-c64d25e3cbbb": {
+        "description": "",
+        "reasons": []
+      },
+      "4326a403-9b8a-4017-b306-227757d0f431": {
+        "description": "",
+        "reasons": []
+      },
+      "4a8a7172-1c67-4c5f-9aa8-28f949fd4968": {
+        "description": "",
+        "reasons": []
+      },
+      "4c0c7597-98f2-4cf5-9d45-9a31863eb117": {
+        "description": "",
+        "reasons": []
+      },
+      "544534b1-42e5-4617-abf6-176024efae01": {
+        "description": "",
+        "reasons": []
+      },
+      "5692fd57-0257-4aea-a050-7a4a2a028f24": {
+        "description": "",
+        "reasons": []
+      },
+      "5bff15a7-e1de-4e25-90ed-d9864dc5d016": {
+        "description": "",
+        "reasons": []
+      },
+      "5f24849e-e92e-4c9f-af59-aac423fc1760": {
+        "description": "",
+        "reasons": []
+      },
+      "6b60a09d-3bef-4b20-be17-5539bb38c325": {
+        "description": "",
+        "reasons": []
+      },
+      "727bc126-8525-47c1-b342-0ec5475db6be": {
+        "description": "",
+        "reasons": []
+      },
+      "7ddd5ad4-852d-4b83-9232-b34fc38c203c": {
+        "description": "",
+        "reasons": []
+      },
+      "7fb12623-7c45-46d8-8067-51ba15038e44": {
+        "description": "",
+        "reasons": []
+      },
+      "80a55598-fc2c-4d86-8f30-2f3eeeadd8da": {
+        "description": "",
+        "reasons": []
+      },
+      "834b7b0f-1d64-41f1-825a-2cbb93bb4c54": {
+        "description": "",
+        "reasons": []
+      },
+      "860cbea6-b2df-4402-848d-6ddb9c57b15e": {
+        "description": "",
+        "reasons": []
+      },
+      "88e80216-d625-40df-b873-356fcb08fbab": {
+        "description": "",
+        "reasons": []
+      },
+      "8fa49596-b51f-4967-852e-8ea8e41de917": {
+        "description": "",
+        "reasons": []
+      },
+      "948a03d7-eeef-4a44-be16-1f37e93a6f63": {
+        "description": "",
+        "reasons": []
+      },
+      "953e2e70-db60-44ee-b0f7-b892b0155a43": {
+        "description": "",
+        "reasons": []
+      },
+      "9918014b-b15e-48b8-85a4-d7e31d19146a": {
+        "description": "",
+        "reasons": []
+      },
+      "a25ea56f-20aa-4bc8-bee1-6a8f68ae63a0": {
+        "description": "",
+        "reasons": []
+      },
+      "a6a95b2f-ed1f-4a8c-bf9e-f39269c058d0": {
+        "description": "",
+        "reasons": []
+      },
+      "a9ea1cbc-72d9-4ccd-9c70-5588b9961095": {
+        "description": "",
+        "reasons": []
+      },
+      "ad8481d9-622d-4e08-9ec9-a5a925b25614": {
+        "description": "",
+        "reasons": []
+      },
+      "c1eaf7af-322e-48a0-8613-ac5301feb9d9": {
+        "description": "",
+        "reasons": []
+      },
+      "ca77fdad-3c46-4013-b700-57a2965b294f": {
+        "description": "",
+        "reasons": []
+      },
+      "dba711b4-4e1c-49e2-8c3a-ebab70e1fecb": {
+        "description": "",
+        "reasons": []
+      },
+      "dfede135-d444-4285-a897-d9cfa5fb5489": {
+        "description": "",
+        "reasons": []
+      },
+      "ecba6e8a-43f1-4bbc-9193-635001aadebd": {
+        "description": "",
+        "reasons": []
+      },
+      "f0341d79-fcdd-44f4-9a57-e7c87d9d6a3f": {
+        "description": "",
+        "reasons": []
+      },
+      "fed7a211-202f-4f1a-90bc-91dd747dfcb9": {
+        "description": "",
+        "reasons": []
+      }
+    }
+  },
+  "diffs": {
+    "events": {}
+  },
+  "trackings": {},
+  "summary": {
+    "events": {
+      "total": 63,
+      "character": 0,
+      "onScreenText": 4,
+      "music": 0,
+      "foreignDialogue": 1,
+      "meCreation": 0,
+      "archivalFootage": 0,
+      "existingIp": 0,
+      "context": 5,
+      "untagged": 53,
+      "localizationNote": 0,
+      "inaudible": 0,
+      "pendingInfo": 0,
+      "mainTitleInDialogue": 0,
+      "episodeTitleInDialogue": 0,
+      "sensitiveLanguage": 0
+    },
+    "notes": {
+      "total": 0,
+      "character": 0,
+      "onScreenText": 0,
+      "music": 0,
+      "foreignDialogue": 0,
+      "meCreation": 0,
+      "archivalFootage": 0,
+      "existingIp": 0,
+      "context": 0,
+      "untagged": 0,
+      "localizationNote": 0,
+      "inaudible": 0,
+      "pendingInfo": 0,
+      "mainTitleInDialogue": 0,
+      "episodeTitleInDialogue": 0,
+      "sensitiveLanguage": 0
+    }
+  },
+  "scenes": []
+}

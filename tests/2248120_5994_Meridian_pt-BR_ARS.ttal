@@ -1,0 +1,1681 @@
+{
+  "meta": {
+    "fps": "FPS_5994",
+    "lang": "pt-BR",
+    "originalLanguage": "en",
+    "type": "DUB_SCRIPT",
+    "style": "standard_2017_latin",
+    "movieId": 80141336,
+    "proxyId": "6017fa00-8586-11ee-a86f-12550c634977:22.0",
+    "packageId": 2248120,
+    "timeFormat": "FRAMES",
+    "requestReference": "dubtext:dubtext_script_authoring:4d4c2ab3-9ce7-4a8b-b599-fd8e9c949af3",
+    "audioUrl": "",
+    "sourceTextAmpReference": "f6c458d0-e7d4-11ee-8138-12646799ab9f.1.0",
+    "title": "Meridian",
+    "runtime": 11,
+    "version": "V2.0",
+    "proxyType": "FINAL_CUT",
+    "originalVideoFps": "FPS_5994",
+    "linkParentRequestReference": [
+      "dubtext:dubtext_request:8ca26ca3-6556-4cb5-9f68-7ba6b35fb4d7",
+      "dubtext:dubtext_request:3031ac9e-765b-4241-9b84-36b685aa0052"
+    ],
+    "published": "Friday 19 April 2024 16:29:43.241+0000"
+  },
+  "events": {
+    "00df0fb5-7c41-40aa-8b9d-10b98f40014d": {
+      "start": 12419,
+      "end": 12563,
+      "txt": "Então esses caras simplesmente sumiram?",
+      "transcriptionText": "So these guys just disappear?",
+      "characterId": "ff669043-0afa-4f1f-a750-d4d860556837",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "0c214b74-12be-411d-bdea-fa54509627d4": {
+      "start": 20488,
+      "end": 20541,
+      "txt": "Capitão Foster!",
+      "transcriptionText": "Captain Foster?",
+      "characterId": "cfb935d6-3a44-45f2-8f22-91396c80397a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "1705ad43-6178-49c3-8c42-e976c5c297b9": {
+      "start": 2436,
+      "end": 2680,
+      "txt": "Mickey Cohen costumava levar os sócios pra lá. Dar um bon voyage.",
+      "transcriptionText": "Well, Mickey Cohen used to take his associates out there. Bid them a bon voyage. ",
+      "characterId": "ff669043-0afa-4f1f-a750-d4d860556837",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.ForeignDialog"
+        ],
+        "text": "bon voyage - French way to say goodbye "
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "18a39fd3-cce8-45ce-ac15-95c1aa367cb1": {
+      "start": 11910,
+      "end": 11958,
+      "txt": "E agora...",
+      "transcriptionText": " So now...",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "1de5d17d-30df-4d91-ae8e-9168f3dc621d": {
+      "start": 6024,
+      "end": 6062,
+      "txt": "A testemunha?",
+      "transcriptionText": "A witness?",
+      "characterId": "ff669043-0afa-4f1f-a750-d4d860556837",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "1ee105a9-3a66-4f20-bb66-2e42844ddace": {
+      "start": 10795,
+      "end": 11473,
+      "txt": "Ele a viu. Ela era linda. Mas é como se ela viesse de uma outra época, de um outro lugar... Ele olhou de novo para tempestade porque estava ficando cada vez pior. E ele decidiu dar o fora dali.",
+      "transcriptionText": "He sees her, she's beautiful. But like she's from some other time, some other place. He looks back at the weather, because it's getting worse and worse, and decides to hightail it out of there.",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.Context"
+        ],
+        "text": "Hightail it: leave quickly."
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "2891435d-2fc2-4ffe-b154-93047f72c7a8": {
+      "start": 7183,
+      "end": 7222,
+      "txt": "O que ele disse?",
+      "transcriptionText": "What did he say?",
+      "characterId": "ff669043-0afa-4f1f-a750-d4d860556837",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "2b16d701-f800-434b-b7d0-3873bdfab6d6": {
+      "start": 3331,
+      "end": 3376,
+      "txt": "Alguma ligação?",
+      "transcriptionText": "Any connection? ",
+      "characterId": "ff669043-0afa-4f1f-a750-d4d860556837",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "2de90846-667f-49fe-a452-9cb644dae02e": {
+      "start": 6650,
+      "end": 7124,
+      "txt": "Chequei esse também, o cara parece um informante do inferno, e agora eu não sei no que acreditar... Só sei que não quero acreditar nele.",
+      "transcriptionText": "I had him checked out too. Guy's a goddamn Eagle Scout. So now, now I don't know what to believe. I know I don't want to believe him.",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.Context"
+        ],
+        "text": "Eagle Scout: Eagle Scout is the highest rank attainable in the Scouts BSA program by the Boy Scouts of America. With this he is implying he is probably a reputable/good person."
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "304886dc-c03f-42f8-bcdf-16a82aca7c35": {
+      "start": 12945,
+      "end": 13015,
+      "txt": "Sim, uma testemunha.",
+      "transcriptionText": "Yeah, a witness.",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "3246bc05-8588-440e-b5f3-7a776d0727aa": {
+      "start": 20326,
+      "end": 20398,
+      "txt": "Ainda está aí, capitão.",
+      "transcriptionText": "Are you still there, Captain?",
+      "characterId": "cfb935d6-3a44-45f2-8f22-91396c80397a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "33a8b1ca-a188-420c-90ff-3d11313f052f": {
+      "start": 5530,
+      "end": 5702,
+      "txt": "Bom, pra começar, não tinha corpos e...",
+      "transcriptionText": "Well, for one thing, there's no bodies and...",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "394edf82-d7b1-45f7-a229-21e56d3c8343": {
+      "start": 9207,
+      "end": 9928,
+      "txt": "E nesse exato momento, ele disse que ficou muito, muito escuro, muito rápido e bombas começaram a explodir no ar, raios e trovões, uma tempestade que ele nunca tinha visto. Vinda, não se sabe de onde...",
+      "transcriptionText": "At that very moment, he says it got really, really dark really fast and bombs start going off in the air. Thunder and lightning, weather like he'd never seen before, coming from he didn't know where.",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "3e4cb38f-0b25-433c-ba1c-f35e40ef4855": {
+      "start": 6110,
+      "end": 6178,
+      "txt": "Sim, uma testemunha.",
+      "transcriptionText": "Yeah, a witness.",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "4344dff7-0a80-4aee-b32a-0f6b02a286b2": {
+      "start": 7232,
+      "end": 8162,
+      "txt": "Ele disse que estava passeando com o cachorro nos penhascos a cima do El Matador, sabe? E ele olhou pra praia, onde fica a pedra enorme, aquele que é separada do continente, onde o mar encontra a areia. Ele disse: \"Parecia uma criatura marinha mítica, ou coisa assim.\"",
+      "transcriptionText": "He said he was out there walking his dog along the bluffs above El Matador, right? And he looks down at the beach at that huge rock, you know, the one that's separated from the mainland, right where the ocean meets the shore. His words, looks like a, like a \"mythic sea creature.\" You know that one?",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF_ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "44163418-d38a-4d98-bf0a-129e31b0ff25": {
+      "start": 4168,
+      "end": 4262,
+      "txt": "Todos eram divorciados.",
+      "transcriptionText": " They were all divorced. ",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "44fcf8a3-1486-4b7a-ac98-ac848a828894": {
+      "start": 32984,
+      "end": 33020,
+      "txt": "Jake.",
+      "transcriptionText": "Jake.",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "45b24319-4d51-4b99-b60c-990dc2bc780e": {
+      "start": 1860,
+      "end": 2035,
+      "txt": "É, perto daquele trecho da estrada do El Matador.",
+      "transcriptionText": " Yeah, on that stretch of road right above El Matador. You know it?",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "45f34da2-2e01-4e31-ae8b-a91da6da41b7": {
+      "start": 2187,
+      "end": 2239,
+      "txt": "Com a pedra grande?",
+      "transcriptionText": "With the big rock?",
+      "characterId": "ff669043-0afa-4f1f-a750-d4d860556837",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "46376fa8-30ca-4bc3-bd24-b51406e009fe": {
+      "start": 33629,
+      "end": 33714,
+      "txt": "Ah, meu Deus.",
+      "transcriptionText": "Oh my God.",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "47f3bb42-2ce4-444f-b319-313e719fff51": {
+      "start": 19316,
+      "end": 19472,
+      "txt": "Olha, eu vou dar uma olhada antes de mandarem alguém pra cá, então...",
+      "transcriptionText": "Listen, I'm going to take a look around before you send anybody out here. So--",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "48c9b289-e200-44d4-b5d8-20487d3e636c": {
+      "start": 2260,
+      "end": 2295,
+      "txt": "Isso mesmo.",
+      "transcriptionText": "That's right.",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "4ee3b938-a0c7-41f3-898d-3a3310e67a5e": {
+      "start": 18688,
+      "end": 19070,
+      "txt": "Alô, central, aqui é o capitão Foster. Eu estou aqui na estrada do El Matador. Não há sinal do detetive Sullivan.",
+      "transcriptionText": "Yeah, dispatch, this is Captain Foster. I'm out here at the El Matador location. There's no sign of Detective Sullivan.",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "521dbf19-1b5d-4a37-b2db-7f082fdf53ff": {
+      "start": 31745,
+      "end": 31857,
+      "txt": "Polícia de Los Angeles, mãos ao alto.",
+      "transcriptionText": "LAPD, put your hands in the air!",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.Context"
+        ],
+        "text": "LAPD: Los Angeles Police Department"
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "58580620-dd3d-46f5-a3b0-0958190c4c59": {
+      "start": 8214,
+      "end": 8445,
+      "txt": "Enfim, ele olhou lá pra baixo e viu um cara no alto daquela pedra.",
+      "transcriptionText": "Anyway, he looks down there and there's a guy who's on top of that rock.",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF_ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "590f8094-b20a-4a4b-bc41-860f82811bce": {
+      "start": 20622,
+      "end": 20724,
+      "txt": "Capitão, por favor, responda.",
+      "transcriptionText": "Captain, please come in!",
+      "characterId": "cfb935d6-3a44-45f2-8f22-91396c80397a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "5db4afd8-a352-47e0-97f1-ef3d06cd4e00": {
+      "start": 19159,
+      "end": 19238,
+      "txt": "Não, só o carro.",
+      "transcriptionText": "No. Just his car.",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "5eb10d27-2a94-436c-8c43-600ba398d0c4": {
+      "start": 4834,
+      "end": 5157,
+      "txt": "Olha, eu sei o que aconteceu, tá bom? Eles vão até a pedra e dão aquele mergulho lento e frio até a china.",
+      "transcriptionText": "Yeah, look, I know what happened, alright. They go out to the rock. They take that long, cold, slow swim to China.",
+      "characterId": "ff669043-0afa-4f1f-a750-d4d860556837",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "698be35b-afc6-4e10-b6c0-2780880ea290": {
+      "start": 3510,
+      "end": 4074,
+      "txt": "Bom, eu chequei todos eles... Sem antecedentes criminais, sem ligação com qualquer organização criminosa. Um desses caras foi preso por dirigir bêbado, já faz muito tempo.",
+      "transcriptionText": "Mm-mm. I mean, I checked them all out. There's no criminal records. No association with any criminal organizations. One of the guys was arrested for drunk driving a long time ago.",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF_ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "6d98705f-8d85-40bf-a0af-3d96e6102fc3": {
+      "start": 9988,
+      "end": 10683,
+      "txt": "Quando ele olhou de novo pra pedra, o cara sumiu, mas tinha uma mulher lá. Ela usava um vestido branco com pele de alabastro, palavras dele. E ele disse que ela estava olhando na direção dele.",
+      "transcriptionText": "When he looks back at the rock, the guy's gone. But there's a woman there. She's in a white dress. Alabaster skin, his words, and he says she's staring right up at him.",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF_ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "6ecc876b-5e21-478b-b0e7-eb9ee8f171c1": {
+      "start": 5174,
+      "end": 5211,
+      "txt": "Suicídio?",
+      "transcriptionText": "Suicide?",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "7ae518cc-8986-4ea9-bec4-2353c4939985": {
+      "start": 1614,
+      "end": 1768,
+      "txt": "Então esses caras simplesmente sumiram?",
+      "transcriptionText": "So these guys just... disappear?",
+      "characterId": "ff669043-0afa-4f1f-a750-d4d860556837",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "7cf34647-2a1d-4e44-92a9-2d7dddabf5c9": {
+      "start": 12878,
+      "end": 12922,
+      "txt": "Uma testemunha?",
+      "transcriptionText": "A witness?",
+      "characterId": "ff669043-0afa-4f1f-a750-d4d860556837",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "81508bc6-9cf3-4095-bfc1-32ec74cf60f5": {
+      "start": 20107,
+      "end": 20260,
+      "txt": "Capitão Foster, responda, por favor...",
+      "transcriptionText": "Captain Foster, come in please.",
+      "characterId": "cfb935d6-3a44-45f2-8f22-91396c80397a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "818f3475-b36d-4998-8388-19457b5e286c": {
+      "start": 13068,
+      "end": 13798,
+      "txt": "Ele disse que estava passeando com o cachorro nos penhascos a cima do El Matador, sabe? E ele viu uma cara no alto daquela pedra. Ele vasculhou a pedra inteira como se procurasse alguma coisa ou alguém...",
+      "transcriptionText": "He said that he was up there walking his dog along those bluffs above El Matador. And there's a guy who's on top of that rock. And he's just like looking all over the rock as if he's looking for someone or something.",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "892a46dc-ab8c-4545-bbdf-e897d5ca2c84": {
+      "start": 4354,
+      "end": 4501,
+      "txt": "Bom, nesse caso, talvez você não queira ir até lá, chefe...",
+      "transcriptionText": "Oh. Well, in that case, maybe you don't want to go out there boss.",
+      "characterId": "ff669043-0afa-4f1f-a750-d4d860556837",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF_ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "9854aeb2-1ffa-4fd0-b197-3de7901d3b97": {
+      "start": 2307,
+      "end": 2327,
+      "txt": "Sei...",
+      "transcriptionText": "Yeah.",
+      "characterId": "ff669043-0afa-4f1f-a750-d4d860556837",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "99482515-4f19-44df-9c0c-3767728372a5": {
+      "start": 6184,
+      "end": 6266,
+      "txt": "E porque você não disse logo?",
+      "transcriptionText": "Well, why didn't you say that in the first place?",
+      "characterId": "ff669043-0afa-4f1f-a750-d4d860556837",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "9c062618-8f1e-49fb-89d0-63bb714f956a": {
+      "start": 6308,
+      "end": 6480,
+      "txt": "Porque achei que o cara era louco pelo que ele disse.",
+      "transcriptionText": "Because I thought the guy was nuts. What he said...",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.Context"
+        ],
+        "text": "Nuts: crazy."
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "9d922433-6fca-40dd-a5fe-221f1d1aff11": {
+      "start": 5786,
+      "end": 5968,
+      "txt": "Alguém estava lá no dia em que o último homem desapareceu.",
+      "transcriptionText": "Somebody was out there the day the last guy disappeared.",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "9f8ac91f-6e86-41d3-9bf0-2e923aef44c2": {
+      "start": 2719,
+      "end": 3252,
+      "txt": "Máfia? Não, não desta vez. Um desses caras era só um professor. O outro vendia seguros. E o último era aposentado.",
+      "transcriptionText": "Mob hits? Nah, not this time. One of these guys was a schoolteacher. Next guy, he sold insurance. Last guy, he was retired.",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.Context"
+        ],
+        "text": "Mob hits: people killed by the mob/mafia."
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON_OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "a0540c61-cead-4c87-b626-4538950d06b9": {
+      "start": 19840,
+      "end": 19888,
+      "txt": "Espera um minuto.",
+      "transcriptionText": " Hang on a minute.",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "a83c050f-baae-44b4-bfef-6c7877acb66c": {
+      "start": 2100,
+      "end": 2124,
+      "txt": "Conhece?",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "aa335101-ea9f-4be3-9a4f-9182148c87f9": {
+      "start": 12016,
+      "end": 12272,
+      "txt": "Agora preciso que você vá até lá e encontre essa mulher.",
+      "transcriptionText": "Now, I need you to go up there and find that woman.",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "bc0ade06-73fe-4cd5-8e5d-cd7cd16d02e2": {
+      "start": 31954,
+      "end": 32032,
+      "txt": "Mãos pra cima agora!",
+      "transcriptionText": "Put your hands up now.",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "c28ffeb8-42b0-4a82-a37f-74f189cf5296": {
+      "start": 13967,
+      "end": 15556,
+      "txt": "E então ficou muito escuro de repente, muito rápido... Raios e trovões por toda parte, uma tempestade. Quando ele olhou de novo para a pedra o cara sumiu mas tinha uma mulher lá. Ela usava um vestido branco e tinha uma pele de alabastro, e ela estava olhando na direção dele sem se mover. Agora eu não sei no que acreditar. Mas sei que não quero acreditar nele.",
+      "transcriptionText": "Then, it gets dark all of a sudden. Really fast. Like thunder and lightning from everywhere, all this weather. When he looks back at the rock... the guys gone, but there's a woman there in a long white dress with Alabaster skin. And she staring right up at him, not moving. I don't know what to believe. I know I sure don't want to believe him.",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "cd770c14-9d41-4ec7-92d9-05b80fc4406b": {
+      "start": 5255,
+      "end": 5327,
+      "txt": "Costuma acontecer lá.",
+      "transcriptionText": "It's been known to happen out there.",
+      "characterId": "ff669043-0afa-4f1f-a750-d4d860556837",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "cf859d94-6aaa-4794-8274-2c020f6703ad": {
+      "start": 5493,
+      "end": 5520,
+      "txt": "Como assim?",
+      "transcriptionText": "What do you mean?",
+      "characterId": "ff669043-0afa-4f1f-a750-d4d860556837",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "e4ab58e0-dcd7-4908-8e65-6ec10dfcbcfc": {
+      "start": 6534,
+      "end": 6601,
+      "txt": "Mas agora acredita?",
+      "transcriptionText": "And now you believe him?",
+      "characterId": "ff669043-0afa-4f1f-a750-d4d860556837",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "e5b93cdc-dd17-444a-a9c7-372c49e36d2e": {
+      "start": 8163,
+      "end": 8181,
+      "txt": "Sei.",
+      "transcriptionText": "Yeah.",
+      "characterId": "ff669043-0afa-4f1f-a750-d4d860556837",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "ee75f0f9-520d-46b5-9a72-f15f8171cf38": {
+      "start": 12626,
+      "end": 12884,
+      "txt": "Não, não desta vez. Alguém estava lá no dia em que o último homem desapareceu?",
+      "transcriptionText": "Nah, not this time. Somebody was out there the day the last guy disappeared.",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "f00d8f77-6481-40dc-b9ad-27e7e25a89f4": {
+      "start": 5405,
+      "end": 5470,
+      "txt": "Não desta vez.",
+      "transcriptionText": "Nah, not this time. ",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "f1e6e498-f5ec-473a-b689-468d4f0f8b09": {
+      "start": 8487,
+      "end": 9127,
+      "txt": "E ele pensou na hora: como ele subiu lá?  Ele teria que ser um tremendo alpinista. O mais importante é que o cara tinha um atitude estranha. Ele vasculhou a pedra inteira como se procurasse alguma coisa ou alguém.",
+      "transcriptionText": "And he's thinking to himself, \"How the hell do you get up there? You got to be a goddamn mountain climber.\" But more importantly, he says the guy's acting really funny. He's looking all over that rock, like he's looking for something or someone.",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "fb6f3923-bf1c-4f60-9c4d-79ec6bcf5cf2": {
+      "start": 4597,
+      "end": 4807,
+      "txt": "Virou comediante? Se for o caso, você não vai querer ir até lá...",
+      "transcriptionText": "What are you, a comedian? If that's the case, you sure don't want to go out there.",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "fdffa817-8f08-4780-a38a-d0fc80d056ba": {
+      "start": 11603,
+      "end": 11799,
+      "txt": "E, e foi... Foi essa essa a história dele, tá bom?",
+      "transcriptionText": " And that was it. That was his story, right?",
+      "characterId": "e1312a3b-38da-4fe8-a7e3-ca4068782b5a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionStyles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    }
+  },
+  "characters": {
+    "cfb935d6-3a44-45f2-8f22-91396c80397a": {
+      "name": "IDENTIFIED FEMALE DISPATCH",
+      "color": {
+        "surface": "#1A7250",
+        "ink": "#FFFFFF"
+      },
+      "gender": "",
+      "voice": "pt-BR-FranciscaNeural",
+      "talent": "",
+      "language": "pt-BR",
+      "image": "",
+      "notes": "",
+      "engine": "microsoft",
+      "voiceName": "pt-BR-FranciscaNeural"
+    },
+    "e1312a3b-38da-4fe8-a7e3-ca4068782b5a": {
+      "name": "CAPTAIN FOSTER",
+      "color": {
+        "surface": "#DDE378",
+        "ink": "#000000"
+      },
+      "gender": "",
+      "voice": "pt-BR-FranciscaNeural",
+      "talent": "",
+      "language": "pt-BR",
+      "image": "",
+      "notes": "",
+      "engine": "microsoft",
+      "voiceName": "pt-BR-FranciscaNeural"
+    },
+    "ff669043-0afa-4f1f-a750-d4d860556837": {
+      "name": "DETECTIVE SULLIVAN",
+      "color": {
+        "surface": "#40BA81",
+        "ink": "#000000"
+      },
+      "gender": "",
+      "voice": "pt-BR-FranciscaNeural",
+      "talent": "",
+      "language": "pt-BR",
+      "image": "",
+      "notes": "",
+      "engine": "microsoft",
+      "voiceName": "pt-BR-FranciscaNeural"
+    }
+  },
+  "deletedEvents": {},
+  "referenceScript": {
+    "events": {},
+    "characters": {}
+  },
+  "lipDetection": {
+    "events": {}
+  },
+  "notes": {},
+  "issues": {
+    "global": [],
+    "events": {}
+  },
+  "diffs": {
+    "events": {}
+  },
+  "trackings": {},
+  "summary": {
+    "events": {
+      "total": 55,
+      "character": 0,
+      "onScreenText": 0,
+      "music": 0,
+      "foreignDialogue": 1,
+      "meCreation": 0,
+      "archivalFootage": 0,
+      "existingIp": 0,
+      "context": 5,
+      "untagged": 49,
+      "localizationNote": 0,
+      "inaudible": 0,
+      "pendingInfo": 0,
+      "mainTitleInDialogue": 0,
+      "episodeTitleInDialogue": 0,
+      "sensitiveLanguage": 0
+    },
+    "notes": {
+      "total": 0,
+      "character": 0,
+      "onScreenText": 0,
+      "music": 0,
+      "foreignDialogue": 0,
+      "meCreation": 0,
+      "archivalFootage": 0,
+      "existingIp": 0,
+      "context": 0,
+      "untagged": 0,
+      "localizationNote": 0,
+      "inaudible": 0,
+      "pendingInfo": 0,
+      "mainTitleInDialogue": 0,
+      "episodeTitleInDialogue": 0,
+      "sensitiveLanguage": 0
+    }
+  },
+  "scenes": []
+}

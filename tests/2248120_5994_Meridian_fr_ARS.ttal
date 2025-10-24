@@ -1,0 +1,1717 @@
+{
+  "meta": {
+    "fps": "FPS_5994",
+    "lang": "fr",
+    "originalLanguage": "en",
+    "type": "DUB_SCRIPT",
+    "style": "standard_2017_latin",
+    "movieId": 80141336,
+    "proxyId": "6017fa00-8586-11ee-a86f-12550c634977:21.0",
+    "packageId": 2248120,
+    "timeFormat": "FRAMES",
+    "requestReference": "dubtext:dubtext_script_authoring:91b6fd3a-7f11-46a6-a801-cc8707f31ab0",
+    "audioUrl": "",
+    "sourceTextAmpReference": "f6c458d0-e7d4-11ee-8138-12646799ab9f.1.0",
+    "title": "Meridian",
+    "runtime": 11,
+    "version": "V2.0",
+    "proxyType": "FINAL_CUT",
+    "originalVideoFps": "FPS_5994",
+    "linkParentRequestReference": [
+      "dubtext:dubtext_request:8ca26ca3-6556-4cb5-9f68-7ba6b35fb4d7",
+      "dubtext:dubtext_request:ae0d7aef-c6ad-4073-989a-a4d84a96923d"
+    ],
+    "published": "Friday 19 April 2024 16:28:08.596+0000"
+  },
+  "events": {
+    "082b472f-2f5c-4bb6-9173-163ce5f8e17e": {
+      "start": 20311,
+      "end": 20383,
+      "txt": "Capitaine Foster, répondez s'il vous plaît.",
+      "characterId": "695a5000-892b-4caf-a772-f2eea4b60348",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "08cb0bde-8894-488b-896f-7c91cc1bc32d": {
+      "start": 11658,
+      "end": 11799,
+      "txt": "Voilà, c'est tout. C'est… c'est son témoignage.",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "0e89fd11-f99c-440d-be6d-983044d14507": {
+      "start": 6551,
+      "end": 6601,
+      "txt": "Mais vous le croyez maintenant.",
+      "characterId": "de8dc396-ffc2-4558-84c8-6afc4cd351c9",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "0f9687b7-30e8-4b66-86e7-07ee5025d206": {
+      "start": 2719,
+      "end": 3252,
+      "txt": "La mafia ? Non pas ce coup-ci. C'est des types ordinaires. Un instit', un vendeur de contrats d'assurance et un retraité. ",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "10d8ffdc-e30d-4594-9ade-baaee4e81417": {
+      "start": 8487,
+      "end": 8748,
+      "txt": "Et il se dit, comment il a fait pour monter jusque là-haut ? Faut qu'il soit équipé, faut être alpiniste. ",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "148f3e1c-b076-47f9-aa8c-b9a6321ae8d7": {
+      "start": 8161,
+      "end": 8181,
+      "txt": "Oui. ",
+      "characterId": "de8dc396-ffc2-4558-84c8-6afc4cd351c9",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "1a5f7c52-8d45-44bc-8ce9-ee8d972797dd": {
+      "start": 20746,
+      "end": 20805,
+      "txt": "Capitaine Foster ?",
+      "characterId": "695a5000-892b-4caf-a772-f2eea4b60348",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "1cc91b8d-071b-4392-a24e-a45a0289da0e": {
+      "start": 12880,
+      "end": 12914,
+      "txt": "Un témoin ?",
+      "characterId": "de8dc396-ffc2-4558-84c8-6afc4cd351c9",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "1d771813-a7b3-450f-82b9-013cd0a5143e": {
+      "start": 5530,
+      "end": 5702,
+      "txt": "Eh bien, pour commencer, y'a pas de corps.",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "1d914929-592b-4db2-ad8a-ea05ab5137ff": {
+      "start": 3331,
+      "end": 3376,
+      "txt": "Ils se connaissaient ? ",
+      "characterId": "de8dc396-ffc2-4558-84c8-6afc4cd351c9",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "1ea7c514-317c-494b-8043-d77cdb1eb9a1": {
+      "start": 4597,
+      "end": 4807,
+      "txt": "Tu joues les comiques ? Dans ce cas-là, c'est toi qui ferait mieux de ne pas y aller.",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "25f4fd54-89dc-4da9-bf28-5672c7b4d290": {
+      "start": 5174,
+      "end": 5211,
+      "txt": "Des suicides ?",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "26654cfd-1db9-4588-a521-c689e1d18067": {
+      "start": 20622,
+      "end": 20701,
+      "txt": "Vous êtes là, Capitaine ? ",
+      "characterId": "695a5000-892b-4caf-a772-f2eea4b60348",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "2e12ba37-64fc-4e13-a2f2-7a77ee338570": {
+      "start": 4171,
+      "end": 4251,
+      "txt": "Tous les trois divorcés.",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "33ff57cb-f4a6-4d80-a58d-c6846ada66e1": {
+      "start": 6024,
+      "end": 6062,
+      "txt": "Un témoin ?",
+      "characterId": "de8dc396-ffc2-4558-84c8-6afc4cd351c9",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "34cae86f-531f-461d-9b04-77fb72b1e141": {
+      "start": 9214,
+      "end": 9928,
+      "txt": "Et à un moment précis, il s'est mis à faire vraiment, vraiment noir. C'est venu très vite, et des bombes ont éclaté dans l'air. Le tonnerre et des éclairs. Un orage comme il en avait jamais vu, et qui venait de nulle part. ",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "36c3ac1e-5386-47f3-b2ae-e36e09f1a535": {
+      "start": 5255,
+      "end": 5327,
+      "txt": "Ce serait pas les premiers.",
+      "characterId": "de8dc396-ffc2-4558-84c8-6afc4cd351c9",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "3936ca79-d111-4b8e-a5b5-291d6e3d3e67": {
+      "start": 6083,
+      "end": 6098,
+      "txt": "Oui. ",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "3b3b477b-f29a-4d49-ba2b-733de9a462cb": {
+      "start": 6110,
+      "end": 6178,
+      "txt": "Un témoin.",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "3ed51718-6d21-436c-af8e-c2594f5f363f": {
+      "start": 33629,
+      "end": 33687,
+      "txt": "Quelle horreur ! ",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "4a18033d-ff3d-4847-969b-0afdb3672a13": {
+      "start": 19840,
+      "end": 19888,
+      "txt": "Attendez une minute.",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "55bf83da-6587-4ec6-ab9d-7db34fadca1e": {
+      "start": 7515,
+      "end": 8152,
+      "txt": "Et en regardant la plage au pied de cet énorme rocher... Tu sais, celui qui est détaché de la côte où l'océan vient mourir ? Lui, il dit que c'est comme un… comme une sorte de Dieu marin. Tu vois le rocher ?",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "571ebf46-fa8b-49da-83bd-d5b749e06d27": {
+      "start": 6679,
+      "end": 7124,
+      "txt": "J'ai aussi fait des recherches sur lui. Ce type est impeccable. Alors, du coup… Du coup, je sais plus quoi penser, sinon que j'ai pas envie de le croire.",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "58847a4c-a3a8-4110-bd7b-25e32671023d": {
+      "start": 20107,
+      "end": 20225,
+      "txt": "Capitaine Foster ? ",
+      "characterId": "695a5000-892b-4caf-a772-f2eea4b60348",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "5c97c015-4200-4c41-aa31-4d54da8361e7": {
+      "start": 7183,
+      "end": 7222,
+      "txt": "Qu'est-ce qu'il dit ?",
+      "characterId": "de8dc396-ffc2-4558-84c8-6afc4cd351c9",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "5e91d6fd-f88f-4d29-9228-74fb113e35c3": {
+      "start": 5786,
+      "end": 5968,
+      "txt": "Ensuite, y'avait quelqu'un sur les lieux le jour où le dernier a disparu.",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "61761a37-553a-4c28-bef0-1d68c7c34fff": {
+      "start": 1858,
+      "end": 2127,
+      "txt": "Oui, le nom de cette portion de route qui surplombe El Matador. Tu vois où ?",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "63f1dbdc-0f31-430b-b6ec-01cd0cf22e11": {
+      "start": 4275,
+      "end": 4501,
+      "txt": "Dans ce cas-là, vaut mieux pas que vous alliez là-bas, patron.",
+      "characterId": "de8dc396-ffc2-4558-84c8-6afc4cd351c9",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "64a52ca7-8179-45cb-9cad-2f06f785e198": {
+      "start": 6308,
+      "end": 6480,
+      "txt": "Parce que j'ai d'abord pris ce type pour un cinglé avec ce qu'il racontait.",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "68ff5e98-127c-4299-bdea-635b63ccd7fb": {
+      "start": 12626,
+      "end": 12870,
+      "txt": "Non, pas ce coup-ci. Il y avait quelqu'un sur les lieux, le jour où le dernier a disparu.",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "6e417ec8-7b04-4a52-857a-470ad664bf72": {
+      "start": 5367,
+      "end": 5448,
+      "txt": "Non, pas ce coup-ci. Non.",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "7045ffa2-bb22-4304-b5c4-603aa4a2ac51": {
+      "start": 14521,
+      "end": 15197,
+      "txt": "Quand il regarde à nouveau le rocher, l'homme a disparu. Mais il y a une femme vêtue d'une robe blanche avec une peau d'albâtre. Elle le quitte pas des yeux, sans bouger. ",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "778f1b6a-41b3-4d9e-b4af-fb0e63dc56f5": {
+      "start": 8214,
+      "end": 8445,
+      "txt": "Bref, en regardant en bas, il voit quelqu'un. Un homme au sommet de ce rocher. ",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "7c0d15a3-068b-4f82-8c4e-eacadfac86d9": {
+      "start": 20890,
+      "end": 20984,
+      "txt": "Capitaine, répondez, s'il vous plaît ?",
+      "characterId": "695a5000-892b-4caf-a772-f2eea4b60348",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "89e20483-b8d1-4ab6-8076-d5d9b0b2489b": {
+      "start": 19159,
+      "end": 19238,
+      "txt": "Non, c'est sa voiture.",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "9aa28bad-7c76-43b3-b657-5aee19a7689f": {
+      "start": 2434,
+      "end": 2678,
+      "txt": "Hum. Mickey Cohen y a emmené plus d'un de ses associés, pour leur souhaiter bon voyage.",
+      "characterId": "de8dc396-ffc2-4558-84c8-6afc4cd351c9",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "a1a549c8-4dc7-4279-bb73-315b6e6bfeec": {
+      "start": 12945,
+      "end": 13015,
+      "txt": "Un témoin.",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "a6131125-f03a-44fe-a8a6-55b30a78143b": {
+      "start": 12024,
+      "end": 12209,
+      "txt": "Maintenant, je veux que tu ailles sur les lieux et que tu retrouves cette femme.",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "a7643f13-5968-4b11-bad0-c96204a5e8a7": {
+      "start": 12419,
+      "end": 12563,
+      "txt": "Donc ces types ont disparu ?",
+      "characterId": "de8dc396-ffc2-4558-84c8-6afc4cd351c9",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "a96d3767-f49e-4e43-9f5b-3f352f11da21": {
+      "start": 3417,
+      "end": 4063,
+      "txt": "Hum hum. J'ai épluché leur pédigrée. Des casiers judiciaires vierges, étrangers à toute organisation criminelle. Il y en a un qui a été arrêté pour conduite en état d'ivresse il y a longtemps. ",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "ac57b97a-d54a-41fc-8dbd-d74522bff080": {
+      "start": 19316,
+      "end": 19472,
+      "txt": "Je vais aller y jeter un œil avant que vous fassiez venir quelqu'un.",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "acca1154-dbbb-4358-a89b-352b4183822e": {
+      "start": 1614,
+      "end": 1768,
+      "txt": "Donc ces types ont disparu ?",
+      "characterId": "de8dc396-ffc2-4558-84c8-6afc4cd351c9",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "b0b93cc7-1e08-4f19-806c-c7d95e3bc3f4": {
+      "start": 10795,
+      "end": 11473,
+      "txt": "Il la regarde. Elle est magnifique. Mais c'est comme si elle était d'un autre temps, d'un autre lieu. Il regarde à nouveau le ciel. La tempête est toujours déchaînée, alors il décide de foutre le camp. ",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "b5e2ea6f-0046-47f9-94bf-a79d9da1d4d8": {
+      "start": 2185,
+      "end": 2227,
+      "txt": "Où il y a le gros rocher ? ",
+      "characterId": "de8dc396-ffc2-4558-84c8-6afc4cd351c9",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "b6e39b72-1a5a-4522-87cb-40f5a99e6bda": {
+      "start": 32978,
+      "end": 33020,
+      "txt": "Dick. ",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "b90571f3-f9da-47a0-8ae9-d3704e79bb2d": {
+      "start": 6184,
+      "end": 6266,
+      "txt": "Pourquoi vous n'avez pas commencé par ça ?",
+      "characterId": "de8dc396-ffc2-4558-84c8-6afc4cd351c9",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "bfc6fa94-1935-4e90-ba6c-f3a79f9846b6": {
+      "start": 18688,
+      "end": 19070,
+      "txt": "Central ? C'est moi, Capitaine Foster. Je suis dans le secteur d'El Matador. Aucune trace de l'inspecteur Sullivan.",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "c02c751a-3c1a-4f62-aac2-d1deb96a1c79": {
+      "start": 9988,
+      "end": 10683,
+      "txt": "Quand il regarde à nouveau le rocher, l'homme a disparu. Mais il y a une femme vêtue d'une robe blanche avec une peau d'albâtre. C'est ce qu'il a dit. Et elle l'a vu, là-haut. Elle le quitte pas des yeux. ",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "c1e9c1bb-d0dd-4dcf-a19d-3cc5e0011a9e": {
+      "start": 12921,
+      "end": 12933,
+      "txt": "Oui. ",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "c8add343-95fe-4bcd-b68d-b1917b7b8a38": {
+      "start": 7237,
+      "end": 7483,
+      "txt": "Il dit qu'il était allé promener son chien sur les falaises qui surplombent El Matador. ",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "cb3a2e9d-1dc8-42f0-b0db-7b88c3c4149d": {
+      "start": 5493,
+      "end": 5520,
+      "txt": "Pourquoi ?",
+      "characterId": "de8dc396-ffc2-4558-84c8-6afc4cd351c9",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "cc2e2bbc-0786-4e13-ab26-b5c2d09a650f": {
+      "start": 13967,
+      "end": 14422,
+      "txt": "Il s'est mis à faire noir d'un seul coup. C'est venu très vite. Le tonnerre et des éclairs venant de partout. Un orage terrible. ",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "d0ebd29d-9e47-4871-ac6b-3131d1edd912": {
+      "start": 2258,
+      "end": 2289,
+      "txt": "C'est ça.",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "d3bf7994-89df-427a-9f5e-94730b70cf1b": {
+      "start": 2305,
+      "end": 2325,
+      "txt": "Ouais.",
+      "characterId": "de8dc396-ffc2-4558-84c8-6afc4cd351c9",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "da8665a0-ce8a-44bd-b5cd-4976b6086263": {
+      "start": 15294,
+      "end": 15559,
+      "txt": "Du coup, je ne sais plus quoi penser, sinon que je n'ai pas envie de le croire.",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "dfec9af3-1031-408e-93ec-b8aab5a61ba7": {
+      "start": 8761,
+      "end": 9158,
+      "txt": "Mais ce qui l'étonne surtout, c'est que le type a l'air bizarre. Il fouille partout sur le rocher comme s'il cherchait quelqu'un ou quelque chose.",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "f134fe8b-1171-454b-9da9-422d7b9887a9": {
+      "start": 4834,
+      "end": 5157,
+      "txt": "Oh, je devine déjà ce qui s'est passé. Ils sont montés sur le rocher, et ils ont décidé d'aller jusqu'en Chine à la nage.",
+      "characterId": "de8dc396-ffc2-4558-84c8-6afc4cd351c9",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "f3cd6112-cd3c-4bb9-936b-dabf80cdf9bf": {
+      "start": 31750,
+      "end": 31826,
+      "txt": "Police, ne bougez pas ! Mains en l'air !",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "fb0444a5-9ed5-48e2-b800-9dddb81137a7": {
+      "start": 31954,
+      "end": 32032,
+      "txt": "J'ai dit mains en l'air ! Maintenant ! ",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "fbb624b6-6537-4aa2-9be3-c82539845e59": {
+      "start": 11910,
+      "end": 11958,
+      "txt": "Alors maintenant…",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "fdd6ae1f-384d-49c4-83c7-3f7c602e754d": {
+      "start": 13068,
+      "end": 13798,
+      "txt": "Il dit qu'il était allé promener son chien sur les falaises qui surplombent El Matador. Il voit quelqu'un. Un homme au sommet de ce rocher. Il fouille partout sur le rocher, comme s'il cherchait quelqu'un ou quelque chose.",
+      "characterId": "1270c10a-6fb3-4881-9197-d4ae81b04b3b",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    }
+  },
+  "characters": {
+    "1270c10a-6fb3-4881-9197-d4ae81b04b3b": {
+      "name": "CAPTAIN FOSTER",
+      "color": {
+        "surface": "#506CE8",
+        "ink": "#FFFFFF"
+      },
+      "gender": "",
+      "voice": "fr-BE-CharlineNeural",
+      "talent": "",
+      "language": "fr",
+      "image": "",
+      "notes": "",
+      "engine": "microsoft",
+      "voiceName": "fr-BE-CharlineNeural"
+    },
+    "695a5000-892b-4caf-a772-f2eea4b60348": {
+      "name": "IDENTIFIED FEMALE DISPATCH",
+      "color": {
+        "surface": "#6149CE",
+        "ink": "#FFFFFF"
+      },
+      "gender": "",
+      "voice": "fr-BE-CharlineNeural",
+      "talent": "",
+      "language": "fr",
+      "image": "",
+      "notes": "",
+      "engine": "microsoft",
+      "voiceName": "fr-BE-CharlineNeural"
+    },
+    "de8dc396-ffc2-4558-84c8-6afc4cd351c9": {
+      "name": "DETECTIVE SULLIVAN",
+      "color": {
+        "surface": "#B52FA2",
+        "ink": "#FFFFFF"
+      },
+      "gender": "",
+      "voice": "fr-BE-CharlineNeural",
+      "talent": "",
+      "language": "fr",
+      "image": "",
+      "notes": "",
+      "engine": "microsoft",
+      "voiceName": "fr-BE-CharlineNeural"
+    }
+  },
+  "deletedEvents": {},
+  "referenceScript": {
+    "events": {},
+    "characters": {}
+  },
+  "lipDetection": {
+    "events": {}
+  },
+  "notes": {},
+  "issues": {
+    "global": [],
+    "events": {}
+  },
+  "diffs": {
+    "events": {}
+  },
+  "trackings": {},
+  "summary": {
+    "events": {
+      "total": 61,
+      "character": 0,
+      "onScreenText": 0,
+      "music": 0,
+      "foreignDialogue": 0,
+      "meCreation": 0,
+      "archivalFootage": 0,
+      "existingIp": 0,
+      "context": 0,
+      "untagged": 61,
+      "localizationNote": 0,
+      "inaudible": 0,
+      "pendingInfo": 0,
+      "mainTitleInDialogue": 0,
+      "episodeTitleInDialogue": 0,
+      "sensitiveLanguage": 0
+    },
+    "notes": {
+      "total": 0,
+      "character": 0,
+      "onScreenText": 0,
+      "music": 0,
+      "foreignDialogue": 0,
+      "meCreation": 0,
+      "archivalFootage": 0,
+      "existingIp": 0,
+      "context": 0,
+      "untagged": 0,
+      "localizationNote": 0,
+      "inaudible": 0,
+      "pendingInfo": 0,
+      "mainTitleInDialogue": 0,
+      "episodeTitleInDialogue": 0,
+      "sensitiveLanguage": 0
+    }
+  },
+  "scenes": []
+}

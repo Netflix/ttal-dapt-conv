@@ -1,0 +1,3325 @@
+{
+  "meta": {
+    "fps": "FPS_5994",
+    "lang": "ko",
+    "originalLanguage": "en",
+    "type": "DUB_SCRIPT",
+    "style": "standard_2017_latin",
+    "movieId": 80141336,
+    "proxyId": "6017fa00-8586-11ee-a86f-12550c634977:21.0",
+    "packageId": 2248120,
+    "timeFormat": "FRAMES",
+    "requestReference": "dubtext:dubtext_script_authoring:1be5b790-1cd0-45fd-b43a-a32bbd3c641a",
+    "audioUrl": "",
+    "lastRefreshTimeStamp": 1712551180861,
+    "sourceTextAmpReference": "f6c458d0-e7d4-11ee-8138-12646799ab9f.1.0",
+    "title": "Meridian",
+    "runtime": 11,
+    "version": "V2.0",
+    "proxyType": "FINAL_CUT",
+    "originalVideoFps": "FPS_5994",
+    "linkParentRequestReference": [
+      "dubtext:dubtext_request:8ca26ca3-6556-4cb5-9f68-7ba6b35fb4d7",
+      "dubtext:dubtext_request:854a4db9-29a5-44e5-b65d-60127e7972a2"
+    ],
+    "published": "Friday 19 April 2024 16:28:41.717+0000"
+  },
+  "events": {
+    "0298913c-35f6-4062-ac23-bdf2a5a11b9a": {
+      "start": 9927,
+      "end": 9947,
+      "txt": "(들숨)",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "id": "0298913c-35f6-4062-ac23-bdf2a5a11b9a"
+    },
+    "03436b26-595f-42a7-855f-e145f9373fe7": {
+      "start": 10517,
+      "end": 10681,
+      "txt": "자기를 빤히 쳐다보고 있었다는군./",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "039e31bd-15fa-4f41-8ef1-ad3754a7afee": {
+      "start": 11593,
+      "end": 11625,
+      "txt": "(깊은 한숨)",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "[REACTION]",
+      "pivotStyles": []
+    },
+    "03af2af0-0686-4efd-9d6a-f4eda5968ea5": {
+      "start": 7852,
+      "end": 7994,
+      "txt": "그자는 그게... 그 뭐야... ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "0a60d849-3d06-4067-b9d5-efd09b4cabf7": {
+      "start": 12919,
+      "end": 12931,
+      "txt": "(vo) (f) (어이없다는 듯이 살짝 웃음)",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.Context"
+        ],
+        "text": "TC 0141 반복"
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "[REACTION]",
+      "pivotStyles": []
+    },
+    "0b26ecf9-1318-4bf7-a0af-bbb3769ee412": {
+      "start": 6677,
+      "end": 6858,
+      "txt": "신원을 확인해 보니, 빌어먹을 정찰꾼이더군. ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.Context"
+        ],
+        "text": "Eagle Scout: Eagle Scout is the highest rank attainable in the Scouts BSA program by the Boy Scouts of America. With this he is implying he is probably a reputable/good person."
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "I had him checked out too. Guy's a goddamn Eagle Scout. So now, now I don't know what to believe. I know I don't want to believe him.",
+      "pivotStyles": []
+    },
+    "0e03b28d-c3f7-465d-a766-5ddf62b86bc1": {
+      "start": 6182,
+      "end": 6264,
+      "txt": "왜 말씀 안 하셨습니까?",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Well, why didn't you say that in the first place?",
+      "pivotStyles": []
+    },
+    "0e53129f-ee67-4f9e-a892-4b1a7bc82275": {
+      "start": 7629,
+      "end": 7851,
+      "txt": "그 왜 땅에서 좀 떨어져 있는 해변의 바위 있잖아.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "0ff7c152-4a6c-4819-b277-200c9ba585ba": {
+      "start": 8319,
+      "end": 8445,
+      "txt": "바위 위에 누가 있더라는 거야.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "118a19fe-df7d-49f1-9167-cf8b4b4a952f": {
+      "start": 3159,
+      "end": 3250,
+      "txt": "마지막은 은퇴한 남자였어.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "15048a36-01b2-4ff3-9743-7d8d14ccaa66": {
+      "start": 6639,
+      "end": 6671,
+      "txt": "(들숨)",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "id": "15048a36-01b2-4ff3-9743-7d8d14ccaa66"
+    },
+    "19a2dda1-0e45-4d88-a1e3-b169219df339": {
+      "start": 10966,
+      "end": 11156,
+      "txt": "마치 다른 시간, 다른 공간의 존재 같았다나?",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "1b9814fe-f9d2-4174-ab8e-904a3fe2ce92": {
+      "start": 3506,
+      "end": 3578,
+      "txt": "내가 다 뒤져봤는데",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "1c9789a5-7c5f-4b7f-9a1a-76e8bc921262": {
+      "start": 13542,
+      "end": 13796,
+      "txt": "사람을 찾는지 뭘 찾는지, 바위를 샅샅이 살펴보더래./",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "1f02706f-ea30-49e8-aa14-4710cd7539d8": {
+      "start": 7999,
+      "end": 8162,
+      "txt": "신화에 나오는 바다 생물처럼 생겼다나?",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "20b6ed71-2392-465d-bc06-65dafb4c656b": {
+      "start": 33631,
+      "end": 33689,
+      "txt": "(날숨으로 믿기지 않는다는 듯이) 말도 안 돼.//",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Oh my God.",
+      "pivotStyles": []
+    },
+    "24dbc86d-baa7-4354-86d1-8c5bb1713942": {
+      "start": 2890,
+      "end": 3055,
+      "txt": "이들 중 한 명은 학교 교사였고",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "25dfcc14-3364-4d1f-b917-96b26b0911f3": {
+      "start": 12624,
+      "end": 12729,
+      "txt": "(vo) (f) 아… 이번엔 아니야. ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.Context"
+        ],
+        "text": "TC 0129, TC 0136 반복"
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Nah, not this time. Somebody was out there the day the last guy disappeared.",
+      "pivotStyles": []
+    },
+    "26485b4f-72d7-4afe-9dec-a41d38e27094": {
+      "start": 8618,
+      "end": 8736,
+      "txt": "무슨 전문 산악인인가 싶었대.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "27387844-a4ac-4de7-9900-fb39526828a1": {
+      "start": 2605,
+      "end": 2678,
+      "txt": "행운도 빌어주면서…",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "29a5f0f8-5ebb-4c39-abeb-9b4254f96b7f": {
+      "start": 3329,
+      "end": 3374,
+      "txt": "연관성은요?",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Any connection? ",
+      "pivotStyles": []
+    },
+    "2a71e6c5-3bd7-4f1b-a513-2db5ae48241b": {
+      "start": 2305,
+      "end": 2325,
+      "txt": "네",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Yeah.",
+      "pivotStyles": []
+    },
+    "2b1cc03d-c5fc-47af-9352-0348bd2c7758": {
+      "start": 10795,
+      "end": 10920,
+      "txt": "여자가 정말 예쁘긴 했는데",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.Context"
+        ],
+        "text": "Hightail it: leave quickly."
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "He sees her, she's beautiful. But like she's from some other time, some other place. He looks back at the weather, because it's getting worse and worse, and decides to hightail it out of there.",
+      "pivotStyles": []
+    },
+    "2ed0ad3e-6e01-42b0-af63-d9990a8e9821": {
+      "start": 9986,
+      "end": 10172,
+      "txt": "다시 그 바위를 보니 남자는 사라졌고",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF_ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "When he looks back at the rock, the guy's gone. But there's a woman there. She's in a white dress. Alabaster skin, his words, and he says she's staring right up at him.",
+      "pivotStyles": []
+    },
+    "30c53eca-8cfe-4c68-98f9-e5115dac2d44": {
+      "start": 14228,
+      "end": 14421,
+      "txt": "천둥 번개가 치고 날씨가 변했다는 거야./ ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "31bc9fd2-5295-499d-b260-8bf3d278f1dd": {
+      "start": 1406,
+      "end": 1781,
+      "txt": "메르디앙",
+      "characterId": "e1bfc9e7-d494-4d6b-8ca6-55dffa3f981e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.MainTitle"
+        ],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "fn",
+      "rgn": "bottom",
+      "pivotText": "Meridian",
+      "pivotStyles": []
+    },
+    "362bcb8e-9a02-4401-a0c4-7769ab6b1454": {
+      "start": 12419,
+      "end": 12563,
+      "txt": "(vo) (f) 그 남자들이 그냥 사라졌다고요?",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.Context"
+        ],
+        "text": "TC 0026 반복"
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "So these guys just disappear?",
+      "pivotStyles": []
+    },
+    "3781a372-b6fe-4c2a-a1d8-3bc40f51121b": {
+      "start": 3872,
+      "end": 4063,
+      "txt": "한 명은 오래 전에 음주 운전으로 체포됐었긴 한데…(들숨)",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "38886bb9-50c5-479f-9c97-d98742100121": {
+      "start": 32980,
+      "end": 33022,
+      "txt": "솔란…",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Jake.",
+      "pivotStyles": []
+    },
+    "3ebf1bbd-12c4-4e73-8479-33b7566f4ed6": {
+      "start": 1858,
+      "end": 2083,
+      "txt": "그래, 엘마타도르 위에 있는 도로에서 말이야.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": " Yeah, on that stretch of road right above El Matador. You know it?",
+      "pivotStyles": []
+    },
+    "3f670198-cefc-4f3d-8642-7974e105231d": {
+      "start": 6022,
+      "end": 6060,
+      "txt": "목격자요?",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "A witness?",
+      "pivotStyles": []
+    },
+    "3fee7765-3156-4cc7-ae3e-b5f6faad2c54": {
+      "start": 31750,
+      "end": 31826,
+      "txt": "LA 경찰이다, 손 들어",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.Context"
+        ],
+        "text": "LAPD: Los Angeles Police Department"
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "LAPD, put your hands in the air!",
+      "pivotStyles": []
+    },
+    "404e0172-8208-4f5c-bf65-c64d25e3cbbb": {
+      "start": 19161,
+      "end": 19240,
+      "txt": "아니, 차만 있다. (들숨) ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "No. Just his car.",
+      "pivotStyles": []
+    },
+    "4326a403-9b8a-4017-b306-227757d0f431": {
+      "start": 5174,
+      "end": 5211,
+      "txt": "자살이라고?",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Suicide?",
+      "pivotStyles": []
+    },
+    "4366d728-233f-4b60-b06c-179a36f2dfbf": {
+      "start": 28278,
+      "end": 29380,
+      "txt": "(걸어가면서 작게 호)(시계 보고 놀란 들숨)(겁먹은 호)//",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "id": "4366d728-233f-4b60-b06c-179a36f2dfbf"
+    },
+    "44279f22-7388-471b-b06b-f49a7de08433": {
+      "start": 12730,
+      "end": 12868,
+      "txt": "세 번째 남자가 사라진 날 거기 누군가 있었거든.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "44c7bbbf-3d4e-4133-8562-fcb72d051e75": {
+      "start": 7237,
+      "end": 7483,
+      "txt": "엘마타도르 위에 있는 절벽에서 개를 산책시키고 있다가 문득",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF_ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "He said he was out there walking his dog along the bluffs above El Matador, right? And he looks down at the beach at that huge rock, you know, the one that's separated from the mainland, right where the ocean meets the shore. His words, looks like a, like a \"mythic sea creature.\" You know that one?",
+      "pivotStyles": []
+    },
+    "49a6fced-17f0-40cb-a8d7-88ce481cae66": {
+      "start": 2100,
+      "end": 2133,
+      "txt": "거기 알아?",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "4a74f69d-38cd-44de-ab09-14e59257b7f5": {
+      "start": 1614,
+      "end": 1768,
+      "txt": "그 남자들이 그냥… 사라졌다고요?",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "So these guys just... disappear?",
+      "pivotStyles": []
+    },
+    "4a8a7172-1c67-4c5f-9aa8-28f949fd4968": {
+      "start": 5528,
+      "end": 5700,
+      "txt": "(날숨으로) 일단 시체가 없잖아. 그리고… (머뭇거리는 호)",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Well, for one thing, there's no bodies and...",
+      "pivotStyles": []
+    },
+    "4c0c7597-98f2-4cf5-9d45-9a31863eb117": {
+      "start": 5784,
+      "end": 5966,
+      "txt": "세 번째 남자가 사라진 날, 거기 누군가 있었거든.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Somebody was out there the day the last guy disappeared.",
+      "pivotStyles": []
+    },
+    "4cb2eef7-3671-41ab-b12c-014b99875261": {
+      "start": 2766,
+      "end": 2890,
+      "txt": "아니야, 이번엔 달라.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "544534b1-42e5-4617-abf6-176024efae01": {
+      "start": 5255,
+      "end": 5327,
+      "txt": "요즘 흔한 일이죠.",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "It's been known to happen out there.",
+      "pivotStyles": []
+    },
+    "5692fd57-0257-4aea-a050-7a4a2a028f24": {
+      "start": 13066,
+      "end": 13366,
+      "txt": "(vo) (f) 엘마타도르 위에 있는 절벽에서 개를 산책시키고 있다가 문득",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.Context"
+        ],
+        "text": "TC 0200, 0217, 0221 대사 편집, 반복"
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "He said that he was up there walking his dog along those bluffs above El Matador. And there's a guy who's on top of that rock. And he's just like looking all over the rock as if he's looking for someone or something.",
+      "pivotStyles": []
+    },
+    "5bff15a7-e1de-4e25-90ed-d9864dc5d016": {
+      "start": 2434,
+      "end": 2600,
+      "txt": "미키 코헨이 거기서 여러 사람을 보냈죠.",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.ForeignDialog"
+        ],
+        "text": "bon voyage - French way to say goodbye "
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Well, Mickey Cohen used to take his associates out there. Bid them a bon voyage. ",
+      "pivotStyles": [
+        {
+          "to": 80,
+          "from": 69,
+          "type": "italic"
+        }
+      ]
+    },
+    "5c05f2d3-1e5a-4178-bed2-f0bf8e835ebe": {
+      "start": 9006,
+      "end": 9140,
+      "txt": "바위를 샅샅이, 살펴보더래.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "5c59e89f-6871-47ed-9859-d21bb963d38c": {
+      "start": 18846,
+      "end": 18936,
+      "txt": "엘마타도르에 나와 있는데",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "5cb980b1-312a-4fb6-b2ab-fe278daebe11": {
+      "start": 29474,
+      "end": 29594,
+      "txt": "(겁먹은 호)",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "id": "5cb980b1-312a-4fb6-b2ab-fe278daebe11"
+    },
+    "5f24849e-e92e-4c9f-af59-aac423fc1760": {
+      "start": 20311,
+      "end": 20383,
+      "txt": "(f)(phone) 경감님, 거기 계십니까? ",
+      "characterId": "93fbd60e-8d5d-44e4-a2f6-3aba98c2902a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Are you still there, Captain?",
+      "pivotStyles": []
+    },
+    "619d5308-7544-469e-aa7a-26c4a36ec9a1": {
+      "start": 10173,
+      "end": 10276,
+      "txt": "한 여자가 있었다네.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "641a579c-0f93-4858-a648-6817ddc28083": {
+      "start": 4363,
+      "end": 4501,
+      "txt": "그럼 안 가보시는 게 낫겠네요 경관님.(코로 날숨)",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "727bc126-8525-47c1-b342-0ec5475db6be": {
+      "start": 2185,
+      "end": 2227,
+      "txt": "큰 바위 있는데요?",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "With the big rock?",
+      "pivotStyles": []
+    },
+    "738a3dcd-8694-4b13-b38a-1fe15b9664ce": {
+      "start": 7019,
+      "end": 7122,
+      "txt": "별로 믿고 싶지도 않고.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "76e633ab-e1e9-4d0a-8092-c465d43e4eda": {
+      "start": 11910,
+      "end": 11958,
+      "txt": "그러니까",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": " So now...",
+      "pivotStyles": []
+    },
+    "7ddd5ad4-852d-4b83-9232-b34fc38c203c": {
+      "start": 4834,
+      "end": 4947,
+      "txt": "보나마나 뻔합니다. 경관님. (들숨) ",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Yeah, look, I know what happened, alright. They go out to the rock. They take that long, cold, slow swim to China.",
+      "pivotStyles": []
+    },
+    "7f08398b-da8f-470e-9e4c-d927a6ae247b": {
+      "start": 7484,
+      "end": 7628,
+      "txt": "해변 쪽 큰 바위를 내려다봤다더군. ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "7fb12623-7c45-46d8-8067-51ba15038e44": {
+      "start": 6108,
+      "end": 6176,
+      "txt": "그래, 목격자지.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Yeah, a witness.",
+      "pivotStyles": []
+    },
+    "80a55598-fc2c-4d86-8f30-2f3eeeadd8da": {
+      "start": 12943,
+      "end": 13013,
+      "txt": "(vo) (f) 그래, 목격자지.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.Context"
+        ],
+        "text": "TC 0141 반복"
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Yeah, a witness.",
+      "pivotStyles": []
+    },
+    "834b7b0f-1d64-41f1-825a-2cbb93bb4c54": {
+      "start": 4275,
+      "end": 4324,
+      "txt": "아… ",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF_ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Oh. Well, in that case, maybe you don't want to go out there boss.",
+      "pivotStyles": []
+    },
+    "860cbea6-b2df-4402-848d-6ddb9c57b15e": {
+      "start": 12024,
+      "end": 12209,
+      "txt": "자네가/ 거기로 가서 그 여자를 찾아봐.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Now, I need you to go up there and find that woman.",
+      "pivotStyles": []
+    },
+    "887e521e-51c6-4458-905d-39e9e583b18e": {
+      "start": 105,
+      "end": 310,
+      "txt": "1947년 로스앤젤레스",
+      "characterId": "e1bfc9e7-d494-4d6b-8ca6-55dffa3f981e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.GraphicsInserts"
+        ],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "fn",
+      "rgn": "top",
+      "pivotText": "Los Angeles 1947",
+      "pivotStyles": []
+    },
+    "88e80216-d625-40df-b873-356fcb08fbab": {
+      "start": 5367,
+      "end": 5446,
+      "txt": "아… 이번엔 아니야. (깊은 들숨)",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Nah, not this time. ",
+      "pivotStyles": []
+    },
+    "8fa49596-b51f-4967-852e-8ea8e41de917": {
+      "start": 8487,
+      "end": 8617,
+      "txt": "대체 어떻게 올라간 건지 몰라도",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "And he's thinking to himself, \"How the hell do you get up there? You got to be a goddamn mountain climber.\" But more importantly, he says the guy's acting really funny. He's looking all over that rock, like he's looking for something or someone.",
+      "pivotStyles": []
+    },
+    "948a03d7-eeef-4a44-be16-1f37e93a6f63": {
+      "start": 20622,
+      "end": 20701,
+      "txt": "(f)(phone) 경감님, 응답하세요!/////",
+      "characterId": "93fbd60e-8d5d-44e4-a2f6-3aba98c2902a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Captain, please come in!",
+      "pivotStyles": []
+    },
+    "953e2e70-db60-44ee-b0f7-b892b0155a43": {
+      "start": 19840,
+      "end": 19888,
+      "txt": "잠시만 있게.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": " Hang on a minute.",
+      "pivotStyles": []
+    },
+    "979da638-fd44-44aa-8c93-3953dc890df2": {
+      "start": 6859,
+      "end": 7018,
+      "txt": "그래서 이젠… 뭘 믿어야 할지 모르겠어.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "983fad40-c361-473d-8d6a-65575b2f6f9a": {
+      "start": 31954,
+      "end": 32032,
+      "txt": "어서 손 들어",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Put your hands up now.",
+      "pivotStyles": []
+    },
+    "9918014b-b15e-48b8-85a4-d7e31d19146a": {
+      "start": 9212,
+      "end": 9477,
+      "txt": "근데 그 순간에 갑자기 주변이 깜깜하게 어두워졌대. ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "At that very moment, he says it got really, really dark really fast and bombs start going off in the air. Thunder and lightning, weather like he'd never seen before, coming from he didn't know where.",
+      "pivotStyles": []
+    },
+    "9b33944d-f42d-444a-913f-80f1fee7d43b": {
+      "start": 14511,
+      "end": 14614,
+      "txt": "다시 그 바위를 보니",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "9d13f35b-6634-4f44-9a29-5893f72366b3": {
+      "start": 11658,
+      "end": 11799,
+      "txt": "그게 그 목격자의 얘기야. 그게 전부였어./  ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": " And that was it. That was his story, right?",
+      "pivotStyles": []
+    },
+    "9d5331ae-6514-4eb0-9d91-9b7746d8aaff": {
+      "start": 9478,
+      "end": 9735,
+      "txt": "순식간에 깜깜해지더니 난데없이 폭탄이 터지는 것처럼  ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "9f669ea4-ec59-40f1-a03d-92bf22bbbffa": {
+      "start": 15281,
+      "end": 15422,
+      "txt": "뭘 믿어야 할지 모르겠어. ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "a25ea56f-20aa-4bc8-bee1-6a8f68ae63a0": {
+      "start": 12878,
+      "end": 12912,
+      "txt": "(vo) (f) 목격자요?",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.Context"
+        ],
+        "text": "TC 0140 반복"
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "A witness?",
+      "pivotStyles": []
+    },
+    "a45dd7e3-19f1-4564-9c73-1abd9253da50": {
+      "start": 1817,
+      "end": 1843,
+      "txt": "(담배연기 내뿜는 호) ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "id": "a45dd7e3-19f1-4564-9c73-1abd9253da50"
+    },
+    "a5e17429-b440-411e-a1ea-2bc9d021a449": {
+      "start": 3056,
+      "end": 3158,
+      "txt": "다른 한 명은 보험 판매원",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "a674f6d0-0b5d-4a06-8947-d2bba9f0854c": {
+      "start": 3626,
+      "end": 3866,
+      "txt": "아무 전과도 없고, 심지어 범죄 조직에 연루된 적도 없어",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "a68d66cc-0a2c-406b-9181-7ef95586192c": {
+      "start": 20107,
+      "end": 20225,
+      "txt": "(f)(phone) 포스터 경감님, 응답하세요. ",
+      "characterId": "93fbd60e-8d5d-44e4-a2f6-3aba98c2902a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Captain Foster, come in please.",
+      "pivotStyles": []
+    },
+    "a6a95b2f-ed1f-4a8c-bf9e-f39269c058d0": {
+      "start": 5491,
+      "end": 5518,
+      "txt": "(겹) 어째서요?",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "What do you mean?",
+      "pivotStyles": []
+    },
+    "a887b864-6fee-4112-b727-87be8d3069b9": {
+      "start": 8882,
+      "end": 9005,
+      "txt": "사람을 찾는지 뭘 찾는지 ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "a8c08113-090f-4add-a8e0-1dcf8068c737": {
+      "start": 8162,
+      "end": 8182,
+      "txt": "(말끝 겹) 네.",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Yeah.",
+      "pivotStyles": []
+    },
+    "a993d17b-bd12-4530-b59b-716651a29989": {
+      "start": 32412,
+      "end": 32638,
+      "txt": "(겁먹은 호)",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "[REACTION]",
+      "pivotStyles": []
+    },
+    "a9ea1cbc-72d9-4ccd-9c70-5588b9961095": {
+      "start": 13965,
+      "end": 14190,
+      "txt": "(vo) (f) 근데 그 순간에 갑자기 주변이 깜깜하게 어두워졌대./ ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.Context"
+        ],
+        "text": "TC 0233~0258,  0151 대사 편집, 반복"
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Then, it gets dark all of a sudden. Really fast. Like thunder and lightning from everywhere, all this weather. When he looks back at the rock... the guys gone, but there's a woman there in a long white dress with Alabaster skin. And she staring right up at him, not moving. I don't know what to believe. I know I sure don't want to believe him.",
+      "pivotStyles": []
+    },
+    "ad8481d9-622d-4e08-9ec9-a5a925b25614": {
+      "start": 3415,
+      "end": 3453,
+      "txt": "없어",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF_ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Mm-mm. I mean, I checked them all out. There's no criminal records. No association with any criminal organizations. One of the guys was arrested for drunk driving a long time ago.",
+      "pivotStyles": []
+    },
+    "b05b250f-6a50-48c4-8ae9-8de76d3bea26": {
+      "start": 15949,
+      "end": 16069,
+      "txt": "(작게-겁먹은 호)",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "id": "b05b250f-6a50-48c4-8ae9-8de76d3bea26"
+    },
+    "b2d6c6f3-f3d1-40f9-a87c-614548130996": {
+      "start": 6081,
+      "end": 6096,
+      "txt": "(어이없다는 듯이 살짝 웃음) ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "[REACTION]",
+      "pivotStyles": []
+    },
+    "b4ac35a4-a97a-4a51-99d5-ab322188b5f1": {
+      "start": 8737,
+      "end": 8881,
+      "txt": "더 중요한 건 행동이 웃겼다는 거지. ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "b58386ed-be59-49b6-bf66-22f8cc9ca98c": {
+      "start": 14812,
+      "end": 15027,
+      "txt": "하얀 드레스를 입고 안색이 창백한 여자였는데",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "b624e2c7-42f9-4ff3-9412-eb1348c5e81a": {
+      "start": 7181,
+      "end": 7222,
+      "txt": "뭐라던가요?",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "What did he say?",
+      "pivotStyles": []
+    },
+    "ba0a5154-e560-4d54-a0f8-d9e4744a63a9": {
+      "start": 9736,
+      "end": 9926,
+      "txt": "천둥 번개가 치고 날씨가 변했다는 거야.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "be6e3766-8390-4137-bf0f-4c6a92a68750": {
+      "start": 15028,
+      "end": 15214,
+      "txt": "자기를 빤히, 쳐다보고 있었다는군.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "c07eb218-e79c-4708-8148-615f9b13a1da": {
+      "start": 18239,
+      "end": 18326,
+      "txt": "(시가 피는 호)",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "id": "c07eb218-e79c-4708-8148-615f9b13a1da"
+    },
+    "c1eaf7af-322e-48a0-8613-ac5301feb9d9": {
+      "start": 2717,
+      "end": 2765,
+      "txt": "조폭들? ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.Context"
+        ],
+        "text": "Mob hits: people killed by the mob/mafia."
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON_OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Mob hits? Nah, not this time. One of these guys was a schoolteacher. Next guy, he sold insurance. Last guy, he was retired.",
+      "pivotStyles": []
+    },
+    "ca77fdad-3c46-4013-b700-57a2965b294f": {
+      "start": 6549,
+      "end": 6599,
+      "txt": "이젠 믿으시고요",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "And now you believe him?",
+      "pivotStyles": []
+    },
+    "ca9602c3-c255-46c9-b177-afeda9410951": {
+      "start": 4171,
+      "end": 4251,
+      "txt": "셋 다 이혼했더군.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": " They were all divorced. ",
+      "pivotStyles": []
+    },
+    "d46886ee-ad32-4422-9105-5384bfbd5d20": {
+      "start": 14642,
+      "end": 14812,
+      "txt": "남자는 사라지고, 한 여자가 있었다네.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "d5ed8427-2985-43db-8774-a40f22b64367": {
+      "start": 20488,
+      "end": 20541,
+      "txt": "(f)(phone) 포스터 경감님. ",
+      "characterId": "93fbd60e-8d5d-44e4-a2f6-3aba98c2902a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Captain Foster?",
+      "pivotStyles": []
+    },
+    "d640b2bd-1d11-42f8-9b24-655f508848f8": {
+      "start": 4948,
+      "end": 5157,
+      "txt": "그 바위에서, 머나먼 중국으로 헤엄쳐 간 거예요.",
+      "characterId": "9c514b7f-56ec-4a88-9a21-471104b8ad63",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "dba711b4-4e1c-49e2-8c3a-ebab70e1fecb": {
+      "start": 6306,
+      "end": 6478,
+      "txt": "그자가 말한 게 다 헛소리라고 생각했거든.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [
+          "Annotation.Context"
+        ],
+        "text": "Nuts: crazy."
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Because I thought the guy was nuts. What he said...",
+      "pivotStyles": []
+    },
+    "dc1739dc-b94f-4bf9-81b0-4dfa40fb1232": {
+      "start": 15467,
+      "end": 15547,
+      "txt": "별로 믿고 싶지도 않고.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "dc547cf9-70f1-4510-a783-fa764b20c450": {
+      "start": 33260,
+      "end": 33597,
+      "txt": " (겁먹은 호)// (날숨)",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "id": "dc547cf9-70f1-4510-a783-fa764b20c450"
+    },
+    "def71a09-4896-411a-9130-c5effbead965": {
+      "start": 2258,
+      "end": 2289,
+      "txt": "그래",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "That's right.",
+      "pivotStyles": []
+    },
+    "dfede135-d444-4285-a897-d9cfa5fb5489": {
+      "start": 19318,
+      "end": 19474,
+      "txt": "사람 보내기 전에 내가 일단 좀 둘러보고.../ ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Listen, I'm going to take a look around before you send anybody out here. So--",
+      "pivotStyles": []
+    },
+    "e25c51f8-b65d-43a8-801b-4a114c8e709f": {
+      "start": 18937,
+      "end": 19072,
+      "txt": "솔란 수사관이 보이지 않는다./ (들숨)",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "e72ec937-91d0-41a7-954f-d73f808451e8": {
+      "start": 11178,
+      "end": 11473,
+      "txt": "근데 날씨가 점점 더 안좋아 지는 바람에, 급히 자리를 빠져나왔다는군.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "ebba2be3-25a4-4917-af7d-8784d0fd4cac": {
+      "start": 31112,
+      "end": 31408,
+      "txt": "(겁먹은 호)",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "id": "ebba2be3-25a4-4917-af7d-8784d0fd4cac"
+    },
+    "ecba6e8a-43f1-4bbc-9193-635001aadebd": {
+      "start": 18690,
+      "end": 18793,
+      "txt": "본부, 포스터 경감이다. ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Yeah, dispatch, this is Captain Foster. I'm out here at the El Matador location. There's no sign of Detective Sullivan.",
+      "pivotStyles": []
+    },
+    "eef12ddb-7646-4031-b453-dca7fadd86a0": {
+      "start": 4557,
+      "end": 4577,
+      "txt": "(담배피는 호)",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "id": "eef12ddb-7646-4031-b453-dca7fadd86a0"
+    },
+    "f0341d79-fcdd-44f4-9a57-e7c87d9d6a3f": {
+      "start": 8214,
+      "end": 8318,
+      "txt": "어쨌든 거길 내려다봤더니",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "OFF_ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "Anyway, he looks down there and there's a guy who's on top of that rock.",
+      "pivotStyles": []
+    },
+    "f0a9b972-da18-4f85-b27a-30f418914cc7": {
+      "start": 13366,
+      "end": 13541,
+      "txt": "내려다봤더니 바위 위에 누가 있더라는 거야.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "f7c33cc2-af49-4fdb-a51b-6eca630e280b": {
+      "start": 10277,
+      "end": 10516,
+      "txt": "하얀 드레스를 입고, 안색이 창백한/ 여자였는데",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "fe46c1ed-088f-41dc-8640-d7b0a27e17f1": {
+      "start": 4665,
+      "end": 4807,
+      "txt": "그러는 자네야말로 안 가보는 게 낫겠군.",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "fed7a211-202f-4f1a-90bc-91dd747dfcb9": {
+      "start": 4597,
+      "end": 4656,
+      "txt": "지금 농담하나? ",
+      "characterId": "bcc41bd8-dc8c-4d99-a09c-4612981edd3e",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": "",
+      "pivotText": "What are you, a comedian? If that's the case, you sure don't want to go out there.",
+      "pivotStyles": []
+    }
+  },
+  "characters": {
+    "93fbd60e-8d5d-44e4-a2f6-3aba98c2902a": {
+      "name": "통화 음성 (여)",
+      "color": {
+        "surface": "#E49DD8",
+        "ink": "#000000"
+      },
+      "gender": "",
+      "voice": "en-US-Wavenet-B",
+      "talent": "",
+      "language": "",
+      "image": "",
+      "notes": "IDENTIFIED FEMALE DISPATCH",
+      "engine": "google",
+      "voiceName": "default"
+    },
+    "9c514b7f-56ec-4a88-9a21-471104b8ad63": {
+      "name": "솔란",
+      "color": {
+        "surface": "#E49DD8",
+        "ink": "#000000"
+      },
+      "gender": "",
+      "voice": "en-US-Wavenet-B",
+      "talent": "",
+      "language": "",
+      "image": "",
+      "notes": "DETECTIVE SULLIVAN",
+      "engine": "google",
+      "voiceName": "default"
+    },
+    "bcc41bd8-dc8c-4d99-a09c-4612981edd3e": {
+      "name": "포스터",
+      "color": {
+        "surface": "#5ECEB7",
+        "ink": "#000000"
+      },
+      "gender": "",
+      "voice": "en-US-Wavenet-B",
+      "talent": "",
+      "language": "",
+      "image": "",
+      "notes": "CAPTAIN FOSTER",
+      "engine": "google",
+      "voiceName": "default"
+    },
+    "e1bfc9e7-d494-4d6b-8ca6-55dffa3f981e": {
+      "name": "화면자막",
+      "color": {
+        "surface": "#D7B84D",
+        "ink": "#000000"
+      },
+      "gender": "",
+      "voice": "en-US-Wavenet-B",
+      "talent": "",
+      "language": "",
+      "image": "",
+      "notes": "",
+      "engine": "google",
+      "voiceName": "default",
+      "id": "e1bfc9e7-d494-4d6b-8ca6-55dffa3f981e"
+    }
+  },
+  "deletedEvents": {},
+  "referenceScript": {
+    "events": {},
+    "characters": {}
+  },
+  "lipDetection": {
+    "events": {}
+  },
+  "notes": {},
+  "issues": {
+    "global": [],
+    "events": {
+      "0b26ecf9-1318-4bf7-a0af-bbb3769ee412": {
+        "description": "",
+        "reasons": []
+      },
+      "25dfcc14-3364-4d1f-b917-96b26b0911f3": {
+        "description": "",
+        "reasons": []
+      },
+      "2b1cc03d-c5fc-47af-9352-0348bd2c7758": {
+        "description": "",
+        "reasons": []
+      },
+      "2ed0ad3e-6e01-42b0-af63-d9990a8e9821": {
+        "description": "",
+        "reasons": []
+      },
+      "3ebf1bbd-12c4-4e73-8479-33b7566f4ed6": {
+        "description": "",
+        "reasons": []
+      },
+      "3fee7765-3156-4cc7-ae3e-b5f6faad2c54": {
+        "description": "",
+        "reasons": []
+      },
+      "44c7bbbf-3d4e-4133-8562-fcb72d051e75": {
+        "description": "",
+        "reasons": []
+      },
+      "5692fd57-0257-4aea-a050-7a4a2a028f24": {
+        "description": "",
+        "reasons": []
+      },
+      "5bff15a7-e1de-4e25-90ed-d9864dc5d016": {
+        "description": "",
+        "reasons": []
+      },
+      "76e633ab-e1e9-4d0a-8092-c465d43e4eda": {
+        "description": "",
+        "reasons": []
+      },
+      "7ddd5ad4-852d-4b83-9232-b34fc38c203c": {
+        "description": "",
+        "reasons": []
+      },
+      "834b7b0f-1d64-41f1-825a-2cbb93bb4c54": {
+        "description": "",
+        "reasons": []
+      },
+      "8fa49596-b51f-4967-852e-8ea8e41de917": {
+        "description": "",
+        "reasons": []
+      },
+      "953e2e70-db60-44ee-b0f7-b892b0155a43": {
+        "description": "",
+        "reasons": []
+      },
+      "983fad40-c361-473d-8d6a-65575b2f6f9a": {
+        "description": "",
+        "reasons": []
+      },
+      "9918014b-b15e-48b8-85a4-d7e31d19146a": {
+        "description": "",
+        "reasons": []
+      },
+      "a8c08113-090f-4add-a8e0-1dcf8068c737": {
+        "description": "",
+        "reasons": []
+      },
+      "a9ea1cbc-72d9-4ccd-9c70-5588b9961095": {
+        "description": "",
+        "reasons": []
+      },
+      "ad8481d9-622d-4e08-9ec9-a5a925b25614": {
+        "description": "",
+        "reasons": []
+      },
+      "c1eaf7af-322e-48a0-8613-ac5301feb9d9": {
+        "description": "",
+        "reasons": []
+      },
+      "dba711b4-4e1c-49e2-8c3a-ebab70e1fecb": {
+        "description": "",
+        "reasons": []
+      },
+      "ecba6e8a-43f1-4bbc-9193-635001aadebd": {
+        "description": "",
+        "reasons": []
+      },
+      "f0341d79-fcdd-44f4-9a57-e7c87d9d6a3f": {
+        "description": "",
+        "reasons": []
+      },
+      "fed7a211-202f-4f1a-90bc-91dd747dfcb9": {
+        "description": "",
+        "reasons": []
+      }
+    }
+  },
+  "diffs": {
+    "events": {}
+  },
+  "trackings": {},
+  "summary": {
+    "events": {
+      "total": 112,
+      "character": 0,
+      "onScreenText": 2,
+      "music": 0,
+      "foreignDialogue": 1,
+      "meCreation": 0,
+      "archivalFootage": 0,
+      "existingIp": 0,
+      "context": 12,
+      "untagged": 97,
+      "localizationNote": 0,
+      "inaudible": 0,
+      "pendingInfo": 0,
+      "mainTitleInDialogue": 0,
+      "episodeTitleInDialogue": 0,
+      "sensitiveLanguage": 0
+    },
+    "notes": {
+      "total": 0,
+      "character": 0,
+      "onScreenText": 0,
+      "music": 0,
+      "foreignDialogue": 0,
+      "meCreation": 0,
+      "archivalFootage": 0,
+      "existingIp": 0,
+      "context": 0,
+      "untagged": 0,
+      "localizationNote": 0,
+      "inaudible": 0,
+      "pendingInfo": 0,
+      "mainTitleInDialogue": 0,
+      "episodeTitleInDialogue": 0,
+      "sensitiveLanguage": 0
+    }
+  },
+  "scenes": []
+}

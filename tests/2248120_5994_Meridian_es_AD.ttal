@@ -1,0 +1,1308 @@
+{
+  "meta": {
+    "fps": "FPS_5994",
+    "lang": "es",
+    "originalLanguage": "en",
+    "type": "AUDIO_DESCRIPTION_SCRIPT",
+    "style": "standard_2017_latin",
+    "movieId": 80141336,
+    "proxyId": "6017fa00-8586-11ee-a86f-12550c634977:31.0",
+    "packageId": 2248120,
+    "timeFormat": "FRAMES",
+    "requestReference": "dubtext:dubtext_script_authoring:6e7249a4-452c-4e86-a96a-f0ef3f4f3567",
+    "audioUrl": "",
+    "sourceTextAmpReference": "f6c458d0-e7d4-11ee-8138-12646799ab9f.1.0",
+    "title": "Meridian",
+    "runtime": 11,
+    "version": "V2.0",
+    "proxyType": "FINAL_CUT",
+    "published": "Wednesday 12 June 2024 22:43:04.844+0000"
+  },
+  "events": {
+    "0030e9b6-93b8-44d8-aa14-40aa7c9e3e95": {
+      "start": 32043,
+      "end": 32372,
+      "txt": "Foster se acerca a los hombres, que permanecen de pie inmóviles.  ",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "03b00d63-539c-48aa-b996-af596a8a53fc": {
+      "start": 41699,
+      "end": 42087,
+      "txt": "Copyright 2016 - Virgin Soil Pictures, Inc. Todos los derechos reservados.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "07723afa-6065-4dd4-8a13-f6c3a60a582a": {
+      "start": 29320,
+      "end": 29479,
+      "txt": "Se detiene.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "08853404-c473-448e-9a63-04d70907e675": {
+      "start": 24596,
+      "end": 25231,
+      "txt": "Observa las cavidades oscuras en la parte inferior de la roca. De pie en la orilla, da unos pasos hacia la roca. Mira atrás,",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "0e09caab-56e4-42c8-8936-51d1282d67f3": {
+      "start": 1216,
+      "end": 1641,
+      "txt": "Título, Meridian.  Un hombre de mediana edad, Foster, y un hombre joven están en una oficina. ",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "147deb87-9fe1-4b95-8d73-033c41e84bf6": {
+      "start": 11809,
+      "end": 11963,
+      "txt": "Un auto negro avanza.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "1e0fa414-c522-41b9-a125-3bec8b47f566": {
+      "start": 3264,
+      "end": 3384,
+      "txt": "Tres fotos.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "2565e42f-1479-4cb7-9e55-aa841939e095": {
+      "start": 26374,
+      "end": 26731,
+      "txt": "En el interior, Foster camina sosteniendo la linterna encendida. ",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "26d4f637-7334-4ff7-800e-d5f8ebbcc0b4": {
+      "start": 33705,
+      "end": 34675,
+      "txt": "Sóhlivan mueve los ojos. Atrás de Foster, está la mujer de los ojos azules vestida de blanco. Tras ellos hay una imagen de un sendero flanqueado por árboles. La mujer sonríe levemente. ",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "26e1b91d-466d-4622-bab8-65f85559aabf": {
+      "start": 31846,
+      "end": 31958,
+      "txt": "Los tres desaparecidos",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "2e11db8f-ff1e-4b24-be78-d08646bcbca9": {
+      "start": 15364,
+      "end": 15481,
+      "txt": "Sóhlivan abre bien los ojos.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "3416afe0-4cfa-47cf-86dd-553ea0f0dda8": {
+      "start": 12226,
+      "end": 12445,
+      "txt": "Sóhlivan conduce, tiene un flashback de voz",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "358309dc-8966-4ebb-84bb-062bac5dcc8e": {
+      "start": 60,
+      "end": 935,
+      "txt": "Es de día. Texto en pantalla: Los Ángeles, 1947.  Tranvías y autos circulan por Hollywood Blvd. En un letrero sobre un edificio se lee: The Broadway Holywood. ",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "3824ab2a-5643-4909-9267-8d4b35e1e31a": {
+      "start": 32452,
+      "end": 32570,
+      "txt": "Foster sigue caminando.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "3e3a627c-78cf-453e-873f-79c8766ec2bc": {
+      "start": 28209,
+      "end": 29252,
+      "txt": "Foster sigue caminando. Se detiene. Mira un reloj analógico sin agujas. La imagen se acerca al reloj cuyos números giran en el sentido de las agujas. Foster mira a un lado y camina.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "45483000-07f1-452a-a3d5-daaf379cff80": {
+      "start": 14336,
+      "end": 14557,
+      "txt": "Una mujer con ojos azules aparece en el retrovisor.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "4b796721-fa7d-461c-8230-d39e64ca02cb": {
+      "start": 15543,
+      "end": 16314,
+      "txt": "No hay nadie en el asiento trasero. Él, observa a la mujer en el retrovisor. Los rayos iluminan el rostro de la mujer. Sóhlivan mira fijo el reflejo de la mujer en el espejo.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "52e075e6-9174-468c-89c8-1049874ca0a4": {
+      "start": 19482,
+      "end": 19849,
+      "txt": "Foster mira atrás. El cielo se cubre de nubes negras",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "533307cd-60de-45e5-bacb-c2caf7ec9114": {
+      "start": 19896,
+      "end": 20184,
+      "txt": "Cuelga el teléfono en la ventanilla del auto.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "54a71739-556f-4715-b86e-e9d42f5a6dab": {
+      "start": 16316,
+      "end": 18743,
+      "txt": "Ahora, el cielo está despejado. El auto negro de Sólivan está estacionado en una colina con vista al mar. Un auto negro con puertas blancas se detiene a un lado. En el auto se lee: Policía. Un hombre abre la puerta. Mientras baja del auto, se pone un sombrero. Es Foster. Fuma un cigarro. Cierra la puerta y se acerca al auto negro y mira al interior por la ventanilla abierta. Abre la puerta del acompañante y observa el interior. Mira al frente. Toma el cigarro y lo pone en el borde del techo. Toma un teléfono del auto,",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "56379abf-ca40-44f3-b9f8-6d34e6c86547": {
+      "start": 1036,
+      "end": 1168,
+      "txt": "Vista del teatro chino.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "59ecdd39-68a4-49af-be54-474c60b9bdba": {
+      "start": 4247,
+      "end": 4370,
+      "txt": "Arquea la boca.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "5e28f26d-72b7-479f-8d51-eb497922b02c": {
+      "start": 20388,
+      "end": 20481,
+      "txt": "Observa la playa",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "631cd9b7-5fd2-4670-a506-a1a4cfc53272": {
+      "start": 23502,
+      "end": 23838,
+      "txt": "Foster se acerca a la gran roca. Contempla la cima.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "76a1f79d-4f10-4659-acbf-b0b6752cb15c": {
+      "start": 25236,
+      "end": 25968,
+      "txt": " Sigue caminando. Mete una mano en el bolsillo del abrigo. Saca una linterna de mano. Se inclina y entra a una de las cavidades",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "77775f34-18fa-41de-8860-6357b9ff15e7": {
+      "start": 25995,
+      "end": 26371,
+      "txt": "Las olas se arremolinan al pie de la roca. La pantalla se oscurece.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "7dc15732-46a3-4e45-935b-1f5a3506298d": {
+      "start": 31428,
+      "end": 31642,
+      "txt": "Alza la pistola y la linterna. Da unos pasos.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 45,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 3.864
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "81216f27-c8e8-451b-99de-8e9b27d60fe9": {
+      "start": 30734,
+      "end": 31047,
+      "txt": "La imagen del vitral y de la pantalla se reflejan en el agua del suelo. ",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "8d6f751c-8d15-4659-848d-a381987e1296": {
+      "start": 29484,
+      "end": 30627,
+      "txt": "Entreabre la boca. Mira fijo al frente. Baja la pistola y la linterna. La luz exterior se cuela por un vitral de varios colores. Hay agua en el suelo. A un lado, una pantalla muestra a Foster de espalda observando la gran roca desde el borde del risco.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "90ca267c-c2bb-40da-8565-b6e4d4821705": {
+      "start": 23211,
+      "end": 23417,
+      "txt": "Una lluvia de relámpagos cubre el cielo.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "91fcdcfd-1c18-4f7a-9797-1e4bb15a7e21": {
+      "start": 22384,
+      "end": 23153,
+      "txt": "Luego, Foster camina junto al mar. Hay rocas grandes y pequeñas en la playa bañada por las olas. Foster camina despacio. Lleva un abrigo ligero,",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "a1828699-ba27-4419-88ae-fba60f8ffe3f": {
+      "start": 13801,
+      "end": 13886,
+      "txt": "Llueve.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "a374f7ef-44dc-4260-8638-c222ff514c5a": {
+      "start": 31127,
+      "end": 31321,
+      "txt": "Foster mueve los labios.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "a74f83d6-ef00-4d05-b6c0-df3301727904": {
+      "start": 11483,
+      "end": 11673,
+      "txt": "El joven, Sólivan, alza las cejas",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "ae918ad4-540d-4667-aa72-af8924976acc": {
+      "start": 4083,
+      "end": 4193,
+      "txt": "Foster.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "b3bd4f44-2b4b-4896-ba0b-82a14ce8f162": {
+      "start": 32827,
+      "end": 32992,
+      "txt": "Ilumina a Sóhlivan.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "b424d6f1-2805-49f1-a419-eda89b234d6d": {
+      "start": 4501,
+      "end": 4623,
+      "txt": "El hombre joven sonríe.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "b738b8e0-a5cc-4c8a-9d1f-6a792c73102d": {
+      "start": 20686,
+      "end": 22354,
+      "txt": "Mira la gran roca separada de tierra firme. Imagen de Foster de frente en el risco observando la roca. Varios rayos iluminan el cielo. Mira atrás. Vuelve a mirar la roca. Alza la mirada. Mira la roca una vez más. Tiene dos cavidades en la parte inferior. Foster camina. Las nubes oscuras se mueven en el cielo iluminadas por los relámpagos.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "b7b93028-33f4-4b09-a6ca-b8006545a5b7": {
+      "start": 26734,
+      "end": 27556,
+      "txt": "Ilumina un muñeco de ventrílocuo sentado en un banco. Lleva un traje negro y un corbatín rojo. Foster saca una pistola y le apunta. Se acerca e ilumina al muñeco. ",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "c9315c9f-59b9-4e2b-b415-524d731e1bee": {
+      "start": 34680,
+      "end": 34805,
+      "txt": "La pantalla se oscurece.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "c97d0a20-5769-4bc6-93fc-c52022e5ac19": {
+      "start": 24076,
+      "end": 24353,
+      "txt": "Foster baja la mirada con los ojos entornados.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "c9c7736a-92a7-40ab-aef3-b843cf7aa107": {
+      "start": 20236,
+      "end": 20326,
+      "txt": "Se acerca al borde.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "cb275229-b25a-4131-b88b-8e12a3858dbc": {
+      "start": 34831,
+      "end": 38423,
+      "txt": "Audiodescripción por International Dígital Center. Escrita por Camila Zapata y Jenny Landaverde.\nDirector: Curtis Clark, Escritor: Curtis Clark y James Harmon Brown, \nProductor: Malcom Duncan, Productores ejecutivos: Chris Fetner, Mike Whipple, Director de fotografía: Marcus Forderer, \nDiseñador de producción: Mari Lappalainen. Editor: David Scónyers. Música original de Alex Kovacs.  Kevin Kilner como Foster. \nReid Scott como Sóhlivan. \nElís Levesque como la mujer misteriosa. \nUna producción de Virgin Soil production. Los créditos continúan, Este cortometraje está protegido por los derechos de los Estados Unidos y otros países. La duplicación, distribución o exhibición no autorizadas pueden dar lugar a responsabilidad civil y persecución penal,",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "ce3ca9a4-a4a7-45ab-9f92-65963f90d63e": {
+      "start": 33051,
+      "end": 33611,
+      "txt": "Sóhlivan lleva el mismo traje. Mira inexpresivo al frente. Foster baja la pistola. Se acerca con la linterna alzada.",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "e5a86d99-690f-483a-9972-3e7ec720ada6": {
+      "start": 27653,
+      "end": 28182,
+      "txt": "Mira a un lado y camina apuntando al frente. Los ojos azules del muñeco siguen el movimiento de Foster",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "faf6c309-1d37-4a1c-85a8-3d018a8671e1": {
+      "start": 42092,
+      "end": 42765,
+      "txt": "Logotipos: Netflix, Sony, Red Dígital Cinema, shot on red, FotoKem, Dolby atmos, Dolby vision, Rohd and Schwarz",
+      "characterId": "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    }
+  },
+  "characters": {
+    "2a34a2b5-2df2-4fee-a82c-fc6cc33770dc": {
+      "name": "NARRATOR",
+      "color": {
+        "surface": "#40BA81",
+        "ink": "#000000"
+      },
+      "gender": "Female",
+      "voice": "es-PA-MargaritaNeural",
+      "talent": "",
+      "language": "es",
+      "image": "",
+      "notes": "",
+      "engine": "microsoft",
+      "voiceName": "es-PA-MargaritaNeural"
+    }
+  },
+  "deletedEvents": {},
+  "referenceScript": {
+    "events": {},
+    "characters": {}
+  },
+  "lipDetection": {
+    "events": {}
+  },
+  "notes": {},
+  "issues": {
+    "global": [],
+    "events": {}
+  },
+  "diffs": {
+    "events": {}
+  },
+  "trackings": {},
+  "summary": {
+    "events": {
+      "total": 46,
+      "character": 0,
+      "onScreenText": 0,
+      "music": 0,
+      "foreignDialogue": 0,
+      "meCreation": 0,
+      "archivalFootage": 0,
+      "existingIp": 0,
+      "context": 0,
+      "untagged": 46,
+      "localizationNote": 0,
+      "inaudible": 0,
+      "pendingInfo": 0,
+      "mainTitleInDialogue": 0,
+      "episodeTitleInDialogue": 0,
+      "sensitiveLanguage": 0
+    },
+    "notes": {
+      "total": 0,
+      "character": 0,
+      "onScreenText": 0,
+      "music": 0,
+      "foreignDialogue": 0,
+      "meCreation": 0,
+      "archivalFootage": 0,
+      "existingIp": 0,
+      "context": 0,
+      "untagged": 0,
+      "localizationNote": 0,
+      "inaudible": 0,
+      "pendingInfo": 0,
+      "mainTitleInDialogue": 0,
+      "episodeTitleInDialogue": 0,
+      "sensitiveLanguage": 0
+    }
+  },
+  "scenes": []
+}

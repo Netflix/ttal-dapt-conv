@@ -1,0 +1,2788 @@
+{
+  "meta": {
+    "fps": "FPS_5994",
+    "lang": "fr",
+    "originalLanguage": "en",
+    "type": "AUDIO_DESCRIPTION_SCRIPT",
+    "style": "standard_2017_latin",
+    "movieId": 80141336,
+    "proxyId": "6017fa00-8586-11ee-a86f-12550c634977:31.0",
+    "packageId": 2248120,
+    "timeFormat": "FRAMES",
+    "requestReference": "dubtext:dubtext_script_authoring:a3ba79be-3362-45e1-a306-cb27aa4ef467",
+    "audioUrl": "",
+    "sourceTextAmpReference": "f6c458d0-e7d4-11ee-8138-12646799ab9f.1.0",
+    "title": "Meridian",
+    "runtime": 11,
+    "version": "V2.0",
+    "proxyType": "FINAL_CUT",
+    "published": "Wednesday 12 June 2024 22:42:27.414+0000"
+  },
+  "events": {
+    "00d17c5c-7394-4913-9dfb-80abfa8042a5": {
+      "start": 18408,
+      "end": 18560,
+      "txt": "Il décroche un combiné de téléphone dans le véhicule.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 53,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 2.736
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "00ecb05e-a2cd-4164-a784-447fb35b339a": {
+      "start": 30931,
+      "end": 31067,
+      "txt": "Il continue à regarder la projection.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "042ff3fe-5d82-42a0-a509-7d683eb0539f": {
+      "start": 28243,
+      "end": 28485,
+      "txt": "Le revolver à la main, Foster braque la lampe sur une horloge sans aiguilles.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "0f7965e8-570a-47fe-9fb0-da46c447e204": {
+      "start": 24882,
+      "end": 25011,
+      "txt": "Foster s'approche d'un pas prudent.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 35,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 2.424
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "0f7b049f-af08-47d6-901d-43b364554dbb": {
+      "start": 26370,
+      "end": 26473,
+      "txt": "La lampe torche luit dans l'obscurité.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 38,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 2.112
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "0fb24220-a8ce-462c-9af1-5130d4ddfb80": {
+      "start": 11507,
+      "end": 11577,
+      "txt": "L'homme brun soupire.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "0ff6b675-c3ab-41e3-81c0-5aaff5372db8": {
+      "start": 23897,
+      "end": 23993,
+      "txt": "De la mousse couvre le sommet.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "157fb7ef-e459-410e-b80d-4523fdc93bde": {
+      "start": 28708,
+      "end": 28834,
+      "txt": "Le cadran de l'horloge tourne.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 30,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 2.208
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "1bb434e4-3889-4ac3-98c9-78711a6e0815": {
+      "start": 22716,
+      "end": 22797,
+      "txt": "Foster longe la plage.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 22,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 1.512
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "1c7b39bd-0995-4392-bbf1-edde3c126d8d": {
+      "start": 28606,
+      "end": 28658,
+      "txt": "Il déglutit.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "279178ad-ca5d-4ed1-b306-27ec97c05163": {
+      "start": 329,
+      "end": 594,
+      "txt": "Sur une large avenue, des passants traversent devant des voitures et des tramways.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "2b510a9d-29f4-45fd-b6e4-24301a10d27b": {
+      "start": 15679,
+      "end": 15849,
+      "txt": "Impassible, elle dévisage le Brun de ses yeux bleus.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "325c2eea-3af4-46dd-b1db-d857895aceb4": {
+      "start": 33384,
+      "end": 33525,
+      "txt": "Foster baisse son arme et s'approche de Dick.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 45,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 2.52
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "3483f715-c4a2-4d3c-8a3c-90ccf29a5b15": {
+      "start": 35101,
+      "end": 35248,
+      "txt": "Ecrit par Curtis Clark et James Harmon Brown",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 44,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 2.712
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "376f7a90-4b41-4223-9e83-4bebe3809560": {
+      "start": 32654,
+      "end": 32781,
+      "txt": "Foster s'enfonce un peu plus avant.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "399b43af-0aee-4e82-b496-da924fcb13de": {
+      "start": 26686,
+      "end": 27060,
+      "txt": "Assise sur un tabouret, une marionnette de ventriloque représente un garçon en costume noir avec un nœud papillon rouge.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "3ce4f40c-5802-4f78-b6fc-b75699eb5480": {
+      "start": 20429,
+      "end": 20572,
+      "txt": "Les vagues moussent au pied d'un gros rocher creux.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "40f25ebd-0bb8-4ccb-ba2c-18beed8d7f2c": {
+      "start": 23489,
+      "end": 23602,
+      "txt": "Il s'arrête au pied du gros rocher.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "4520f321-9196-4d9c-a2d9-31f902f5cda9": {
+      "start": 22258,
+      "end": 22470,
+      "txt": "Au bord du rivage, de grosses pierres émergent à la surface de l'eau.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "48ba4ed0-b302-4982-9c5b-877bb3179427": {
+      "start": 25670,
+      "end": 25748,
+      "txt": "Il pénètre dans la grotte.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 26,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 1.44
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "4952d499-e590-48f3-9621-5484c37572af": {
+      "start": 17748,
+      "end": 17897,
+      "txt": "Il ouvre la portière passager de l'autre voiture.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "49a905ab-811d-46d9-bae3-28d2b6fbe491": {
+      "start": 1789,
+      "end": 1838,
+      "txt": "Un Flic fume.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "4a57ed46-9b7e-4a47-8e78-e39cecc3d1a1": {
+      "start": 19933,
+      "end": 20076,
+      "txt": "Il pose le combiné sur le rebord de la fenêtre.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "4b75596b-abcc-49cb-ae06-74c2ce9a2bc6": {
+      "start": 27389,
+      "end": 27460,
+      "txt": "Il vise la marionnette.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 23,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 1.296
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "4e1c4f8e-e42c-41c3-b3c5-cbf9dfc25588": {
+      "start": 34758,
+      "end": 34828,
+      "txt": "L'obscurité tombe.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 18,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 1.224
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "4e9f244b-99a5-40a2-88e5-63efe711bda5": {
+      "start": 17565,
+      "end": 17704,
+      "txt": "La soixantaine, il est de haute stature.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "4f9bf9ab-ab73-44d1-b194-353f955abfb8": {
+      "start": 35984,
+      "end": 36112,
+      "txt": "Dick : Reid Scott.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "535db89f-f0de-48c3-a762-78d38dd9417e": {
+      "start": 2349,
+      "end": 2417,
+      "txt": "Un homme brun hoche la tête.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 28,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 1.2
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "7805cc99-3a1c-425e-b64a-4c9c284000a9": {
+      "start": 4088,
+      "end": 4153,
+      "txt": "Le Flic lit un papier.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "803c2359-f046-40a5-9fef-20506c7fe516": {
+      "start": 17220,
+      "end": 17390,
+      "txt": "En trench-coat, il ajuste son chapeau feutre.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "8ae15a7c-95c7-4e7b-aa3a-b521a7e601f7": {
+      "start": 31308,
+      "end": 31689,
+      "txt": "Un peu plus loin , il braque les trois disparus. Le regard vide, ils se tiennent immobiles côte à côte.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "8c9822a0-c852-4e9f-befb-8b56b4161218": {
+      "start": 33935,
+      "end": 34593,
+      "txt": "Derrière Foster, une projection montre un chemin sous les arbres. A gauche, la Femme Mystérieuse porte une robe blanche sans manches. Ses cheveux auburn tombent sur ses épaules. Elle ébauche un sourire.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 202,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 13.224
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "8d972137-d83f-4a79-9e1d-f65585539239": {
+      "start": 34913,
+      "end": 35013,
+      "txt": "Réalisé par Curtis Clark",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 24,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 1.824
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "8ded7565-5da1-461f-a163-4db1f1f7ee23": {
+      "start": 35578,
+      "end": 35751,
+      "txt": "Musique originale : Alex Kovacs.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "90eff045-3e95-4555-ada2-34e8792777ed": {
+      "start": 15568,
+      "end": 15666,
+      "txt": "Les éclairs illuminent la femme.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 32,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 1.704
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "9439441d-e764-4a50-aae9-288d8c58afd4": {
+      "start": 1495,
+      "end": 1603,
+      "txt": "Dans la pénombre d'un bureau.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "97c391e7-72b8-4d4e-aecd-67e26ac2b250": {
+      "start": 29576,
+      "end": 29772,
+      "txt": "Une fenêtre aux vitraux colorés se reflète sur une eau calme.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "9813ac68-bd71-42e8-84e3-256bfd133647": {
+      "start": 27738,
+      "end": 27877,
+      "txt": "Il regarde à droite et fait quelques pas.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "9ba08d95-dba2-4598-938d-d12b9fd66af4": {
+      "start": 18057,
+      "end": 18130,
+      "txt": "Il examine l'intérieur. ",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 24,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 1.392
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "a0b9ab06-ddfb-48b5-851a-95e59721f2f4": {
+      "start": 21979,
+      "end": 22078,
+      "txt": "Il acquiesce et se met en marche.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 33,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 1.656
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "a0e5f4c1-a6d4-4ac9-a868-175f4d8db96e": {
+      "start": 36449,
+      "end": 36746,
+      "txt": "Une audiodescription écrite par Stéphanie Bourguignon pour Netflix en 2024.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "a1b89323-9609-4790-b1d0-4401aa2bc16b": {
+      "start": 20217,
+      "end": 20284,
+      "txt": "Il est sur un promontoire.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 26,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 1.152
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "a27d1258-9fb0-4e3a-b9af-d0edbe641686": {
+      "start": 27203,
+      "end": 27333,
+      "txt": "Foster sort un revolver de son trench.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 38,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 2.352
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "a4d5b3cd-a271-488b-92f0-286a50b496ac": {
+      "start": 15944,
+      "end": 16004,
+      "txt": "Il est figé sur place",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 21,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 1.128
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "a5a7d33f-d210-4b35-bac0-87266dcd35b0": {
+      "start": 19610,
+      "end": 19747,
+      "txt": "Foster lève les yeux vers le ciel sombre.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "a87cb713-107d-4f8f-abe6-e622b9f3dd9e": {
+      "start": 25254,
+      "end": 25394,
+      "txt": "Il sort une lampe torche d'une poche de son trench.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "abc713bd-2bb4-41e9-82ec-bb76107e2e21": {
+      "start": 14419,
+      "end": 14507,
+      "txt": "L'homme freine et se retourne.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "ad82146f-19b6-49ed-a2e6-c86ec9deb195": {
+      "start": 35338,
+      "end": 35447,
+      "txt": "Produit par Malcolm Duncan",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "ae8ffd54-85c7-40a6-afd5-55aa57b1beb6": {
+      "start": 16769,
+      "end": 16899,
+      "txt": "Une voiture de police se gare à côté.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 37,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 2.184
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "af3978bc-e468-4f11-960b-ae5c7b7478b9": {
+      "start": 29109,
+      "end": 29223,
+      "txt": "Foster poursuit son exploration.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "b64167c6-0a99-42b7-9c2c-ee3f841f6c5a": {
+      "start": 21650,
+      "end": 21776,
+      "txt": "Il contemple le gros rocher.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "baca80d0-8e73-4de1-b21b-26a1162dcc80": {
+      "start": 26576,
+      "end": 26643,
+      "txt": "Foster s'arrête.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "x-fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 16,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "x-fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 1.464
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "bc12385a-b5b2-4f0f-bfe2-03dbae957720": {
+      "start": 21224,
+      "end": 21378,
+      "txt": "De gros nuages noirs menacent au-dessus de Foster.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 50,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 2.688
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "bfd85b44-8f80-4077-9c0c-4ce2e9111296": {
+      "start": 672,
+      "end": 1071,
+      "txt": "Une enseigne \"Hollywood Hotel\" surmonte le toit d'un abri. Un taxi jaune passe devant un théâtre.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "c2da7a9a-b662-41a7-9b6f-057f4f5b9127": {
+      "start": 33752,
+      "end": 33842,
+      "txt": "Dick regarde subitement à gauche.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 33,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 1.584
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "c6351d43-3824-4d65-ad13-e59008fff732": {
+      "start": 12225,
+      "end": 12412,
+      "txt": "Sur une route déserte, l'homme conduit une voiture noire rutilante.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 67,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 3.408
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "c719b3da-2258-4bee-b54d-6f584d0d7f9d": {
+      "start": 1112,
+      "end": 1471,
+      "txt": "En surimpression, un mot apparait en lettres blanches devant le commissariat de Los Angeles, Méridian.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "dbc85c0c-870f-4bf7-8986-6a2956a6b454": {
+      "start": 110,
+      "end": 263,
+      "txt": "Los Angeles, mille neuf cent quarante-sept.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "dfcf8885-1040-464c-95b8-0730fa61af1c": {
+      "start": 16394,
+      "end": 16751,
+      "txt": "Sous un ciel d'azur, la voiture est garée sur une aire sablonneuse. Derrière, l'océan s'étend en contrebas.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 107,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 6.984
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "e21a3113-de97-4f7f-bd56-14ba75bceb97": {
+      "start": 29810,
+      "end": 30161,
+      "txt": "A droite de la fenêtre, une projection apparait: Foster contemple le rocher depuis le promontoire.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "e4a5bfa4-8d20-486b-90a4-eba0811a1ed9": {
+      "start": 18202,
+      "end": 18356,
+      "txt": "Il pose son cigare sur la toit de la voiture.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "efa946e4-29b3-43ba-bf5c-820504f4f7e1": {
+      "start": 24613,
+      "end": 24752,
+      "txt": "Une vague se retire à l'entrée de la grotte.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "f4356e1e-a26c-416f-824c-a5a372acc82c": {
+      "start": 33058,
+      "end": 33332,
+      "txt": "Dans son costume trois pièces, l'homme brun a le teint livide et le regard morne. ",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "f6468316-6cfb-4bc9-a8a0-045be9d2fe85": {
+      "start": 27987,
+      "end": 28141,
+      "txt": "La marionnette le suit de ses grands yeux bleus.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "f827ad7e-0ab5-452e-b2e8-614ebe65d60c": {
+      "start": 14171,
+      "end": 14221,
+      "txt": "Une femme à l'arrière.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "rate": "fast",
+        "auto": true,
+        "spans": [
+          {
+            "from": 0,
+            "to": 22,
+            "id": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "tags": {
+          "00000000-0000-0000-0000-000000000000": {
+            "type": "PROSODY",
+            "options": {
+              "rate": "fast"
+            }
+          }
+        },
+        "defaultAudioDuration": 0.84
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "f83bdc33-5f92-40b7-81c6-30b14b61deb9": {
+      "start": 4523,
+      "end": 4575,
+      "txt": "Il fume un cigare.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "f8fd9cb7-9ef0-4548-b5ee-85b31f573cd1": {
+      "start": 15211,
+      "end": 15270,
+      "txt": "Il fixe le rétro.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "f940d8f7-8c95-4c6f-b297-84efe94fb968": {
+      "start": 30272,
+      "end": 30470,
+      "txt": "Dans la grotte, Foster plisse les yeux, incrédule.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "f95595ac-f4e7-4de1-8de0-a90a0f0ec6e0": {
+      "start": 16914,
+      "end": 17072,
+      "txt": "Un cigare aux lèvres, le Flic d'âge mûr descend.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "fc6adf8b-f0f2-4946-9baf-9015fad8c745": {
+      "start": 35813,
+      "end": 35946,
+      "txt": "Avec Foster : Kevin Kilner.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    },
+    "fecb1efd-82ed-4431-b4ed-06cf0b3ef7e3": {
+      "start": 36170,
+      "end": 36356,
+      "txt": "La Femme Mystérieuse : Elyse Levesque.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "rubies": {},
+      "type": ""
+    }
+  },
+  "characters": {
+    "06a83e43-ad23-4347-986d-f15cc781c55a": {
+      "name": "AD",
+      "color": {
+        "surface": "#6E83D8",
+        "ink": "#000000"
+      },
+      "gender": "",
+      "voice": "fr-FR-JacquelineNeural",
+      "talent": "",
+      "language": "fr",
+      "image": "",
+      "notes": "",
+      "engine": "microsoft",
+      "voiceName": "fr-FR-JacquelineNeural"
+    }
+  },
+  "deletedEvents": {
+    "a0e8f20c-3716-4b16-bc27-dbe974f548b6": {
+      "start": 3260,
+      "end": 3320,
+      "txt": "3 photos des hommes.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "editor": "g.hoare@idcdigital.com",
+      "changedList": {
+        "add": 1717753964446,
+        "end": 1717753909881,
+        "txt": 1717753895230,
+        "start": 1717753903644,
+        "deleted": 1717753964446
+      },
+      "deleted": false,
+      "rubies": {},
+      "type": ""
+    },
+    "e037fbfe-8d5b-450d-8f79-e81f3945b092": {
+      "start": 13800,
+      "end": 13905,
+      "txt": "Il met les essuie-glace en marche.",
+      "characterId": "06a83e43-ad23-4347-986d-f15cc781c55a",
+      "segments": [],
+      "aux": {},
+      "dubAnnotations": {
+        "types": [],
+        "text": ""
+      },
+      "styles": [],
+      "transcriptionRubies": {},
+      "onScreen": "ON",
+      "tag": {
+        "on": false,
+        "color": "#CCCCCC",
+        "text": ""
+      },
+      "voice": {
+        "spans": [],
+        "tags": {}
+      },
+      "editor": "g.hoare@idcdigital.com",
+      "changedList": {
+        "add": 1717755059430,
+        "deleted": 1717755059430
+      },
+      "deleted": false,
+      "rubies": {},
+      "type": ""
+    }
+  },
+  "referenceScript": {
+    "events": {},
+    "characters": {}
+  },
+  "lipDetection": {
+    "events": {}
+  },
+  "notes": {
+    "01303dcf-02df-483b-a105-1826279184b9": {
+      "id": "01303dcf-02df-483b-a105-1826279184b9",
+      "start": 14422,
+      "end": 14722,
+      "txt": "",
+      "styles": [],
+      "types": [],
+      "dubbingDirection": "",
+      "subtitleDirection": "",
+      "musicAndEffectsDirection": "",
+      "image": "",
+      "changedFields": [],
+      "published": false
+    },
+    "0bf6def1-5b76-42e0-b6c8-e1bc39f1a1fd": {
+      "id": "0bf6def1-5b76-42e0-b6c8-e1bc39f1a1fd",
+      "start": 948,
+      "end": 1248,
+      "txt": "",
+      "styles": [],
+      "types": [],
+      "dubbingDirection": "",
+      "subtitleDirection": "",
+      "musicAndEffectsDirection": "",
+      "image": "",
+      "changedFields": [],
+      "published": false
+    },
+    "38c6d5e1-272c-4815-ad0a-71328c7a89af": {
+      "id": "38c6d5e1-272c-4815-ad0a-71328c7a89af",
+      "start": 1757,
+      "end": 2057,
+      "txt": "",
+      "styles": [],
+      "types": [],
+      "dubbingDirection": "",
+      "subtitleDirection": "",
+      "musicAndEffectsDirection": "",
+      "image": "",
+      "changedFields": [],
+      "published": false
+    },
+    "4abf2367-00f3-4adc-9aa9-59435815d0d0": {
+      "id": "4abf2367-00f3-4adc-9aa9-59435815d0d0",
+      "start": 1484,
+      "end": 1784,
+      "txt": "",
+      "styles": [],
+      "types": [],
+      "dubbingDirection": "",
+      "subtitleDirection": "",
+      "musicAndEffectsDirection": "",
+      "image": "",
+      "changedFields": [],
+      "published": false
+    },
+    "6a4046d8-395f-4358-9a28-75461c1d3ea7": {
+      "id": "6a4046d8-395f-4358-9a28-75461c1d3ea7",
+      "start": 14427,
+      "end": 14727,
+      "txt": "",
+      "styles": [],
+      "types": [],
+      "dubbingDirection": "",
+      "subtitleDirection": "",
+      "musicAndEffectsDirection": "",
+      "image": "",
+      "changedFields": [],
+      "published": false
+    },
+    "854ac75f-ec06-4e27-adeb-903d7b438f9e": {
+      "id": "854ac75f-ec06-4e27-adeb-903d7b438f9e",
+      "start": 1502,
+      "end": 1802,
+      "txt": "",
+      "styles": [],
+      "types": [],
+      "dubbingDirection": "",
+      "subtitleDirection": "",
+      "musicAndEffectsDirection": "",
+      "image": "",
+      "changedFields": [],
+      "published": false
+    },
+    "85f373da-3d57-4efd-8fe4-e48bbaa8c158": {
+      "id": "85f373da-3d57-4efd-8fe4-e48bbaa8c158",
+      "start": 1161,
+      "end": 1461,
+      "txt": "",
+      "styles": [],
+      "types": [],
+      "dubbingDirection": "",
+      "subtitleDirection": "",
+      "musicAndEffectsDirection": "",
+      "image": "",
+      "changedFields": [],
+      "published": false
+    },
+    "90358472-0c92-41fd-a1d2-5bf9b447c5d8": {
+      "id": "90358472-0c92-41fd-a1d2-5bf9b447c5d8",
+      "start": 1497,
+      "end": 1797,
+      "txt": "",
+      "styles": [],
+      "types": [],
+      "dubbingDirection": "",
+      "subtitleDirection": "",
+      "musicAndEffectsDirection": "",
+      "image": "",
+      "changedFields": [],
+      "published": false
+    },
+    "d51dd92c-cef7-4aa8-81c2-56beb45dd917": {
+      "id": "d51dd92c-cef7-4aa8-81c2-56beb45dd917",
+      "start": 672,
+      "end": 972,
+      "txt": "",
+      "styles": [],
+      "types": [],
+      "dubbingDirection": "",
+      "subtitleDirection": "",
+      "musicAndEffectsDirection": "",
+      "image": "",
+      "changedFields": [],
+      "published": false
+    },
+    "f274464f-4265-46f3-98ba-26ece98b1de4": {
+      "id": "f274464f-4265-46f3-98ba-26ece98b1de4",
+      "start": 1864,
+      "end": 2164,
+      "txt": "",
+      "styles": [],
+      "types": [],
+      "dubbingDirection": "",
+      "subtitleDirection": "",
+      "musicAndEffectsDirection": "",
+      "image": "",
+      "changedFields": [],
+      "published": false
+    }
+  },
+  "issues": {
+    "global": [],
+    "events": {
+      "00d17c5c-7394-4913-9dfb-80abfa8042a5": {
+        "description": "",
+        "reasons": []
+      },
+      "00ecb05e-a2cd-4164-a784-447fb35b339a": {
+        "description": "",
+        "reasons": []
+      },
+      "042ff3fe-5d82-42a0-a509-7d683eb0539f": {
+        "description": "",
+        "reasons": []
+      },
+      "0f7965e8-570a-47fe-9fb0-da46c447e204": {
+        "description": "",
+        "reasons": []
+      },
+      "0f7b049f-af08-47d6-901d-43b364554dbb": {
+        "description": "",
+        "reasons": []
+      },
+      "0fb24220-a8ce-462c-9af1-5130d4ddfb80": {
+        "description": "",
+        "reasons": []
+      },
+      "0ff6b675-c3ab-41e3-81c0-5aaff5372db8": {
+        "description": "",
+        "reasons": []
+      },
+      "157fb7ef-e459-410e-b80d-4523fdc93bde": {
+        "description": "",
+        "reasons": []
+      },
+      "1c7b39bd-0995-4392-bbf1-edde3c126d8d": {
+        "description": "",
+        "reasons": []
+      },
+      "279178ad-ca5d-4ed1-b306-27ec97c05163": {
+        "description": "",
+        "reasons": []
+      },
+      "2b510a9d-29f4-45fd-b6e4-24301a10d27b": {
+        "description": "",
+        "reasons": []
+      },
+      "325c2eea-3af4-46dd-b1db-d857895aceb4": {
+        "description": "",
+        "reasons": []
+      },
+      "376f7a90-4b41-4223-9e83-4bebe3809560": {
+        "description": "",
+        "reasons": []
+      },
+      "399b43af-0aee-4e82-b496-da924fcb13de": {
+        "description": "",
+        "reasons": []
+      },
+      "3ce4f40c-5802-4f78-b6fc-b75699eb5480": {
+        "description": "",
+        "reasons": []
+      },
+      "40f25ebd-0bb8-4ccb-ba2c-18beed8d7f2c": {
+        "description": "",
+        "reasons": []
+      },
+      "48ba4ed0-b302-4982-9c5b-877bb3179427": {
+        "description": "",
+        "reasons": []
+      },
+      "4952d499-e590-48f3-9621-5484c37572af": {
+        "description": "",
+        "reasons": []
+      },
+      "49a905ab-811d-46d9-bae3-28d2b6fbe491": {
+        "description": "",
+        "reasons": []
+      },
+      "4a57ed46-9b7e-4a47-8e78-e39cecc3d1a1": {
+        "description": "",
+        "reasons": []
+      },
+      "4b75596b-abcc-49cb-ae06-74c2ce9a2bc6": {
+        "description": "",
+        "reasons": []
+      },
+      "4e1c4f8e-e42c-41c3-b3c5-cbf9dfc25588": {
+        "description": "",
+        "reasons": []
+      },
+      "4e9f244b-99a5-40a2-88e5-63efe711bda5": {
+        "description": "",
+        "reasons": []
+      },
+      "535db89f-f0de-48c3-a762-78d38dd9417e": {
+        "description": "",
+        "reasons": []
+      },
+      "7805cc99-3a1c-425e-b64a-4c9c284000a9": {
+        "description": "",
+        "reasons": []
+      },
+      "803c2359-f046-40a5-9fef-20506c7fe516": {
+        "description": "",
+        "reasons": []
+      },
+      "8ae15a7c-95c7-4e7b-aa3a-b521a7e601f7": {
+        "description": "",
+        "reasons": []
+      },
+      "8d972137-d83f-4a79-9e1d-f65585539239": {
+        "description": "",
+        "reasons": []
+      },
+      "90eff045-3e95-4555-ada2-34e8792777ed": {
+        "description": "",
+        "reasons": []
+      },
+      "9439441d-e764-4a50-aae9-288d8c58afd4": {
+        "description": "",
+        "reasons": []
+      },
+      "97c391e7-72b8-4d4e-aecd-67e26ac2b250": {
+        "description": "",
+        "reasons": []
+      },
+      "a0e8f20c-3716-4b16-bc27-dbe974f548b6": {
+        "description": "",
+        "reasons": []
+      },
+      "a1b89323-9609-4790-b1d0-4401aa2bc16b": {
+        "description": "",
+        "reasons": []
+      },
+      "a27d1258-9fb0-4e3a-b9af-d0edbe641686": {
+        "description": "",
+        "reasons": []
+      },
+      "a4d5b3cd-a271-488b-92f0-286a50b496ac": {
+        "description": "",
+        "reasons": []
+      },
+      "a5a7d33f-d210-4b35-bac0-87266dcd35b0": {
+        "description": "",
+        "reasons": []
+      },
+      "a87cb713-107d-4f8f-abe6-e622b9f3dd9e": {
+        "description": "",
+        "reasons": []
+      },
+      "abc713bd-2bb4-41e9-82ec-bb76107e2e21": {
+        "description": "",
+        "reasons": []
+      },
+      "ae8ffd54-85c7-40a6-afd5-55aa57b1beb6": {
+        "description": "",
+        "reasons": []
+      },
+      "baca80d0-8e73-4de1-b21b-26a1162dcc80": {
+        "description": "",
+        "reasons": []
+      },
+      "c2da7a9a-b662-41a7-9b6f-057f4f5b9127": {
+        "description": "",
+        "reasons": []
+      },
+      "c6351d43-3824-4d65-ad13-e59008fff732": {
+        "description": "",
+        "reasons": []
+      },
+      "c719b3da-2258-4bee-b54d-6f584d0d7f9d": {
+        "description": "",
+        "reasons": []
+      },
+      "dfcf8885-1040-464c-95b8-0730fa61af1c": {
+        "description": "",
+        "reasons": []
+      },
+      "e037fbfe-8d5b-450d-8f79-e81f3945b092": {
+        "description": "",
+        "reasons": []
+      },
+      "e21a3113-de97-4f7f-bd56-14ba75bceb97": {
+        "description": "",
+        "reasons": []
+      },
+      "e4a5bfa4-8d20-486b-90a4-eba0811a1ed9": {
+        "description": "",
+        "reasons": []
+      },
+      "efa946e4-29b3-43ba-bf5c-820504f4f7e1": {
+        "description": "",
+        "reasons": []
+      },
+      "f4356e1e-a26c-416f-824c-a5a372acc82c": {
+        "description": "",
+        "reasons": []
+      },
+      "f6468316-6cfb-4bc9-a8a0-045be9d2fe85": {
+        "description": "",
+        "reasons": []
+      },
+      "f827ad7e-0ab5-452e-b2e8-614ebe65d60c": {
+        "description": "",
+        "reasons": []
+      },
+      "f83bdc33-5f92-40b7-81c6-30b14b61deb9": {
+        "description": "",
+        "reasons": []
+      },
+      "f8fd9cb7-9ef0-4548-b5ee-85b31f573cd1": {
+        "description": "",
+        "reasons": []
+      },
+      "f940d8f7-8c95-4c6f-b297-84efe94fb968": {
+        "description": "",
+        "reasons": []
+      },
+      "f95595ac-f4e7-4de1-8de0-a90a0f0ec6e0": {
+        "description": "",
+        "reasons": []
+      }
+    }
+  },
+  "diffs": {
+    "events": {}
+  },
+  "trackings": {},
+  "summary": {
+    "events": {
+      "total": 71,
+      "character": 0,
+      "onScreenText": 0,
+      "music": 0,
+      "foreignDialogue": 0,
+      "meCreation": 0,
+      "archivalFootage": 0,
+      "existingIp": 0,
+      "context": 0,
+      "untagged": 71,
+      "localizationNote": 0,
+      "inaudible": 0,
+      "pendingInfo": 0,
+      "mainTitleInDialogue": 0,
+      "episodeTitleInDialogue": 0,
+      "sensitiveLanguage": 0
+    },
+    "notes": {
+      "total": 0,
+      "character": 0,
+      "onScreenText": 0,
+      "music": 0,
+      "foreignDialogue": 0,
+      "meCreation": 0,
+      "archivalFootage": 0,
+      "existingIp": 0,
+      "context": 0,
+      "untagged": 0,
+      "localizationNote": 0,
+      "inaudible": 0,
+      "pendingInfo": 0,
+      "mainTitleInDialogue": 0,
+      "episodeTitleInDialogue": 0,
+      "sensitiveLanguage": 0
+    }
+  },
+  "scenes": []
+}
