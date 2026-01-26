@@ -1117,10 +1117,10 @@ function processDubAnnotationsForDAPTRepresents(types) {
 		return "audio.x-netflix-SongsDitties";
 	}
 	if (types.includes("Annotation.EpisodicTitle")) {
-		return "visual.text.title.episodic";
+		return "visual.text.title.x-netflix-episodic";
 	}
 	if (types.includes("Annotation.MainTitle")) {
-		return "visual.text.title.main";
+		return "visual.text.title.x-netflix-main";
 	}
 	if (types.includes("Annotation.EpisodeTitleInDialogue")) {
 		return "audio.dialogue";
