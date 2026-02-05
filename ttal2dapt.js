@@ -32,6 +32,8 @@ argparser.add_argument('--no-layout', { action: 'store_true', help: 'does not ex
 argparser.add_argument('--no-styles', { action: 'store_true', help: 'does not export styles' });
 argparser.add_argument('--no-nflx', { action: 'store_true', help: 'does not export Netflix-specific metadata' });
 argparser.add_argument('--sort', { action: 'store_true', help: 'sort events by start times' });
+argparser.add_argument('--origin-timecode', { help: 'DAPT Origin Timecode (SMPTE format: HH:MM:SS:FF)' });
+argparser.add_argument('--start-of-programme', { help: 'Start of Programme Timecode (SMPTE format: HH:MM:SS:FF)' });
 argparser.add_argument('input', { help: 'source TTAL file' });
 argparser.add_argument('output', { help: 'output DAPT file' });
 
@@ -370,6 +372,15 @@ function generateHeadElement(ttal) {
 	}
 
 	ttmlString+=">\n";
+
+	// Add timecode metadata if provided
+	if (args.origin_timecode) {
+		ttmlString+= "<daptm:daptOriginTimecode>"+args.origin_timecode+"</daptm:daptOriginTimecode>\n";
+	}
+	if (args.start_of_programme) {
+		ttmlString+= "<ebuttm:documentStartOfProgramme>"+args.start_of_programme+"</ebuttm:documentStartOfProgramme>\n";
+	}
+
 	ttmlString+= generateCharacters(ttal.characters);
 	ttmlString+="</metadata>\n";
 
