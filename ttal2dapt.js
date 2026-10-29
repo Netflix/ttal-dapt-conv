@@ -405,6 +405,8 @@ function generateHeadElement(ttal) {
 		// The color part of TTAL character objects is mapped onto a style element
 		// with the style_<characterid> being the XML id of this element
 		Object.keys(ttal.characters).forEach(function (characterId) {
+			// skip the "no character" placeholder: style_00000000-0000-0000-0000-000000000000 is already defined above
+			if (characterId === "00000000-0000-0000-0000-000000000000") return;
 			const character = ttal.characters[characterId];
 			ttmlString+= "<style";
 			ttmlString+= " xml:id=\"style_"+characterId+"\"";

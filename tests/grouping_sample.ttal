@@ -6,12 +6,7 @@
     "type": "DIALOG_LIST",
     "title": "Grouping Test"
   },
-  "characters": {
-    "00000000-0000-0000-0000-000000000000": {
-      "name": "UNKNOWN",
-      "color": { "ink": "#FFFFFF", "surface": "#000000" }
-    }
-  },
+  "characters": {},
   "events": {
     "11111111-1111-1111-1111-111111111111": {
       "start": 100,
