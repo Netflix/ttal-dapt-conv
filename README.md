@@ -28,6 +28,22 @@ After installing the dependencies, run the follwoing command to convert a TTAL f
 node ttal2dapt.js input.ttal output.xml
 ```
 
+Optional flags include:
+
+- `--no-layout`: does not export layout
+- `--no-styles`: does not export styles
+- `--no-nflx`: does not export Netflix-specific metadata
+- `--sort`: sorts events by start times
+- `--origin-timecode HH:MM:SS:FF`: sets the DAPT Origin Timecode
+- `--start-of-programme HH:MM:SS:FF`: sets the Start of Programme Timecode
+- `--group-by <mode>`: groups events into nested `div` elements (a `div` containing child `div`s is not a DAPT Script Event; processors recurse into its children). `<mode>` is one of:
+  - `cue`: events sharing the same `cue` value (2 or more events) are nested in a `cue_<value>` div
+  - `loop`: events contained in a TTAL `loops` time span are nested in a `loop_<id>` div
+  - `shot`: events starting between two `shotChanges` are nested in a `shot_<n>` div
+  - `timing`: events sharing identical start and end times (2 or more events) are nested in a `sync_<start>_<end>` div
+
+  Events that do not belong to any group remain top-level `div`s. Grouping `div`s carry an `xml:id` and, unless `--no-nflx` is set, Netflix-specific metadata describing the group; child event `div`s keep their absolute timing.
+
 Run the following to convert the included test files:
 
 ```

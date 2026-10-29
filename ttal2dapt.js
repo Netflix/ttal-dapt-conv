@@ -32,6 +32,7 @@ argparser.add_argument('--no-layout', { action: 'store_true', help: 'does not ex
 argparser.add_argument('--no-styles', { action: 'store_true', help: 'does not export styles' });
 argparser.add_argument('--no-nflx', { action: 'store_true', help: 'does not export Netflix-specific metadata' });
 argparser.add_argument('--sort', { action: 'store_true', help: 'sort events by start times' });
+argparser.add_argument('--group-by', { choices: ['cue', 'loop', 'shot', 'timing'], help: 'group events into nested div elements: cue = events sharing the same cue value; loop = events contained in a TTAL loop (see top-level loops property); shot = events starting between shot changes (see top-level shotChanges property); timing = events sharing identical start and end times' });
 argparser.add_argument('--origin-timecode', { help: 'DAPT Origin Timecode (SMPTE format: HH:MM:SS:FF)' });
 argparser.add_argument('--start-of-programme', { help: 'Start of Programme Timecode (SMPTE format: HH:MM:SS:FF)' });
 argparser.add_argument('input', { help: 'source TTAL file' });
@@ -369,6 +370,18 @@ function generateHeadElement(ttal) {
 				ttmlString+=" nttm:"+"scenes"+"=\""+escapeTextAttributes(JSON.stringify(scenesPruned))+"\"";
 			}
 		}
+		if (ttal.loops) {
+			let loopsPruned = pruneEmptyObjects(ttal.loops);
+			if (!isEmptyValue(loopsPruned)) {
+				ttmlString+=" nttm:"+"loops"+"=\""+escapeTextAttributes(JSON.stringify(loopsPruned))+"\"";
+			}
+		}
+		if (ttal.shotChanges) {
+			let shotChangesPruned = pruneEmptyObjects(ttal.shotChanges);
+			if (!isEmptyValue(shotChangesPruned)) {
+				ttmlString+=" nttm:"+"shotChanges"+"=\""+escapeTextAttributes(JSON.stringify(shotChangesPruned))+"\"";
+			}
+		}
 	}
 
 	ttmlString+=">\n";
@@ -392,6 +405,8 @@ function generateHeadElement(ttal) {
 		// The color part of TTAL character objects is mapped onto a style element
 		// with the style_<characterid> being the XML id of this element
 		Object.keys(ttal.characters).forEach(function (characterId) {
+			// skip the "no character" placeholder: style_00000000-0000-0000-0000-000000000000 is already defined above
+			if (characterId === "00000000-0000-0000-0000-000000000000") return;
 			const character = ttal.characters[characterId];
 			ttmlString+= "<style";
 			ttmlString+= " xml:id=\"style_"+characterId+"\"";
@@ -1163,6 +1178,142 @@ function processDubAnnotationsForDAPTRepresents(types) {
 	return "x-netflix";
 }
 
+/** Returns an XML-ID-safe version of the provided value (to be used with an alphabetic prefix) **/
+function sanitizeXmlId(value) {
+	return String(value).replace(/[^A-Za-z0-9_.-]/g, "_");
+}
+
+/**
+ * Generates a grouping (non-Script-Event) div per DAPT: a div containing child divs
+ * is not itself a Script Event, processors recurse into its children. The grouping div
+ * only carries an xml:id and optional Netflix-proprietary metadata; child event divs
+ * keep their absolute timing.
+ **/
+function generateGroupDiv(xmlId, metadataAttributes, memberEvents) {
+	let ttmlString = "<div xml:id=\""+xmlId+"\">\n";
+	if (metadataAttributes) {
+		ttmlString += "<metadata"+metadataAttributes+"/>\n";
+	}
+	for (let e in memberEvents) {
+		ttmlString += generateEvent(memberEvents[e]);
+	}
+	ttmlString += "</div>\n";
+	return ttmlString;
+}
+
+/**
+ * Groups events into nested divs based on the --group-by mode:
+ * - cue: events sharing the same cue value (2 or more events)
+ * - loop: events contained within a TTAL loop time span (see top-level loops property)
+ * - shot: events starting between two shot changes (see top-level shotChanges property)
+ * - timing: events sharing identical start and end times (2 or more events)
+ * Events that do not belong to any group remain top-level divs.
+ **/
+function generateGroupedEvents(ttalEvents, mode) {
+	// groups: list of { xmlId, metadata, members: [evt] }; each event belongs to at most one group
+	const groups = [];
+	const eventToGroup = new Map();
+
+	if (mode === "cue") {
+		const cueMembers = new Map();
+		for (const evt of ttalEvents) {
+			if (evt.cue !== undefined && evt.cue !== null && evt.cue !== "") {
+				if (!cueMembers.has(evt.cue)) cueMembers.set(evt.cue, []);
+				cueMembers.get(evt.cue).push(evt);
+			}
+		}
+		for (const [cue, members] of cueMembers) {
+			if (members.length < 2) continue;
+			const group = {
+				xmlId: "cue_"+sanitizeXmlId(cue),
+				metadata: (args.no_nflx ? "" : " nttm:cue=\""+escapeTextAttributes(String(cue))+"\""),
+				members: members
+			};
+			groups.push(group);
+			members.forEach(evt => eventToGroup.set(evt, group));
+		}
+	} else if (mode === "loop") {
+		if (Array.isArray(ttal.loops) && ttal.loops.length > 0) {
+			const loops = ttal.loops.filter(l => l && typeof l.start === "number").sort((a, b) => a.start - b.start);
+			const maxEventEnd = ttalEvents.reduce((m, evt) => Math.max(m, evt.end), 0);
+			for (let i = 0; i < loops.length; i++) {
+				const loop = loops[i];
+				// per TTAL, a loop without an explicit end ends at the start of the next loop, or at proxy end
+				const loopEnd = (typeof loop.end === "number") ? loop.end : (i + 1 < loops.length ? loops[i+1].start : maxEventEnd);
+				const members = ttalEvents.filter(evt => evt.start >= loop.start && evt.end <= loopEnd && !eventToGroup.has(evt));
+				if (members.length === 0) continue;
+				let metadata = "";
+				if (!args.no_nflx) {
+					if (!isEmptyValue(loop.id)) metadata += " nttm:id=\""+escapeTextAttributes(String(loop.id))+"\"";
+					if (!isEmptyValue(loop.type)) metadata += " nttm:type=\""+escapeTextAttributes(String(loop.type))+"\"";
+					metadata += " nttm:start=\""+loop.start+"\"";
+					metadata += " nttm:end=\""+loopEnd+"\"";
+				}
+				const group = {
+					xmlId: "loop_"+(!isEmptyValue(loop.id) ? sanitizeXmlId(loop.id) : i+1),
+					metadata: metadata,
+					members: members
+				};
+				groups.push(group);
+				members.forEach(evt => eventToGroup.set(evt, group));
+			}
+		}
+	} else if (mode === "shot") {
+		if (Array.isArray(ttal.shotChanges) && ttal.shotChanges.length > 0) {
+			const starts = ttal.shotChanges.filter(s => s && typeof s.start === "number").map(s => s.start).sort((a, b) => a - b);
+			for (let i = 0; i < starts.length; i++) {
+				const shotStart = starts[i];
+				const shotEnd = (i + 1 < starts.length) ? starts[i+1] : Infinity;
+				const members = ttalEvents.filter(evt => evt.start >= shotStart && evt.start < shotEnd);
+				if (members.length === 0) continue;
+				const group = {
+					xmlId: "shot_"+(i+1),
+					metadata: (args.no_nflx ? "" : " nttm:start=\""+shotStart+"\""),
+					members: members
+				};
+				groups.push(group);
+				members.forEach(evt => eventToGroup.set(evt, group));
+			}
+		}
+	} else if (mode === "timing") {
+		const spanMembers = new Map();
+		for (const evt of ttalEvents) {
+			const key = evt.start+"_"+evt.end;
+			if (!spanMembers.has(key)) spanMembers.set(key, []);
+			spanMembers.get(key).push(evt);
+		}
+		for (const [key, members] of spanMembers) {
+			if (members.length < 2) continue;
+			const group = {
+				xmlId: "sync_"+members[0].start+"_"+members[0].end,
+				metadata: "",
+				members: members
+			};
+			groups.push(group);
+			members.forEach(evt => eventToGroup.set(evt, group));
+		}
+	}
+
+	if (groups.length === 0) {
+		console.warn("Warning: --group-by "+mode+" did not produce any groups; generating flat output");
+	}
+
+	// Emit events in their original order; a group is emitted at the position of its first member
+	let ttmlString = "";
+	const emittedGroups = new Set();
+	for (const evt of ttalEvents) {
+		const group = eventToGroup.get(evt);
+		if (group) {
+			if (emittedGroups.has(group)) continue;
+			emittedGroups.add(group);
+			ttmlString += generateGroupDiv(group.xmlId, group.metadata, group.members);
+		} else {
+			ttmlString += generateEvent(evt);
+		}
+	}
+	return ttmlString;
+}
+
 /**
  * The body of the TTML document is simply a list of events
  **/
@@ -1183,8 +1334,12 @@ function generateBodyElement(ttal) {
 		});
 	}
 
-	for(let e in ttalEvents) {
-		ttmlString += generateEvent(ttalEvents[e]);
+	if (args.group_by) {
+		ttmlString += generateGroupedEvents(ttalEvents, args.group_by);
+	} else {
+		for(let e in ttalEvents) {
+			ttmlString += generateEvent(ttalEvents[e]);
+		}
 	}
 
 	ttmlString+="</body>\n";
